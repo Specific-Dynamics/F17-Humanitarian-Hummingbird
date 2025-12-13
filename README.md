@@ -1,11 +1,11 @@
 *<div align="right"> Caleb Garcia, Vikram Procter, Minh Do, Ethan Sam, Chloe Fulbrook, Khai Huynh | December 13, 2025 </div>*
 
+<img src="./pics/Specific_Dynamics_Logo_OneLine.png" alt="Logo Picture" width="435" height="256" />
+
 ![Logo Pic](./pics/Specific_Dynamics_Logo_OneLine.png)
 # Specific Dynamics - F17 Humanitarian Hummingbird
 
 ## Project Overview
-
-
 
 ## Team Roles
 
