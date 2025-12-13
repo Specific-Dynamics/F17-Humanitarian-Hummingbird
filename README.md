@@ -48,6 +48,9 @@ Specific Dynamics was founded by our dear leader, Vikram Andrew Procter, on Dece
 
 ## Stator Motors
 ### PCB Motor Inductors
+-   Epic [video](https://www.youtube.com/watch?v=CVszJMlvZcA) for inspiration
+-   To buy motors [here](https://microbots.io/products/motorcell)
+-   Open source [resource](https://github.com/microbotsio/MotorCell/tree/main/hardware/PCB%20Stator)
 
 ### Magnets
 
