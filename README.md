@@ -2,7 +2,6 @@
 
 <img src="./pics/Specific_Dynamics_Logo_OneLine.png" alt="Logo Picture" width="435" height="256" />
 
-![Logo Pic](./pics/Specific_Dynamics_Logo_OneLine.png)
 # Specific Dynamics - F17 Humanitarian Hummingbird
 
 ## Project Overview
