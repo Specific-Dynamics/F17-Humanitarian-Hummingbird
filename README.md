@@ -4,6 +4,10 @@
 
 # Specific Dynamics - F17 Humanitarian Hummingbird
 
+## Our Mission
+
+At Specific Dynamics, we are passionate about building a better world through engineering and innovation. We are pioneers in the domain of electrical, mechanical, and aerospace engineering, running on the cutting edge of efficiency, precision, and technology. We believe in creating a brighter future through humanitarian and technological execellence, while pushing the limits of possibility. Our team thrives on challenge, flourishing in pursuit of perfection, and continually redefining the frontiers of humanity. Through our creations, we strive to lead the industry in creating the next generation of sustainable aerospace systems, doing more with less and ensuring that nothing goes to waste. Our mission is to cultiavte people and production, laying the foundation for the next generation of engineers and innovators. Specific Dynamics — A Higher Purpose.
+
 ## Project Overview
 
 ## Team Roles
