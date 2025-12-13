@@ -41,19 +41,39 @@ Specific Dynamics was founded by our dear leader, Vikram Andrew Procter, on Dece
 **Wireless Radio Control**
 - Use ESP32 to communicate between controller and drone
 
-
 **Battery Sourcing and Power Regulation**
 - Source batteries with adequet capacity, current and weight
 - Develope efficient regulator circuits
 
-Project Components: 
-- **Thing One** | It does stuff and things and works wit the other parts
-- **The Other Thing** | This part is really important because we need it for the thing to happen
+
+## Stator Motors
+### PCB Motor Inductors
+
+### Magnets
+
+### Brushless Motor Controllers
 
 
-## Thing One
-### Sub Component
-![Image when done](./pics/)  
-*Picture of sub-component*
 
-Sub-component description
+## PID Motor Control Loop
+### IMU Interfacing
+
+### Microcontroller Utilization
+
+### Motor Controller Speed Output
+
+
+
+## Wireless Radio Control
+### Microcontroller Utilization
+
+### Antennna Placement
+
+### Data Structure and Transfer Protocol
+
+
+## Power Regulation
+### Battery Sourcing
+
+### Regulation Circuitry
+
