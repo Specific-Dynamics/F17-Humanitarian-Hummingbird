@@ -10,7 +10,29 @@ At Specific Dynamics, we are passionate about building a better world through en
 
 ## Project Overview
 
+**Stator Motor and Brushless Controller**
+- Built in PCB inductors for brushless motor
+- Magnet sourcing
+
+**PID Motor Control Loop**
+- IMU interfacing
+- PID tuning
+- Provide motor speed 
+
+**Wireless Radio Control**
+- Use ESP32 to communicate between controller and drone
+
+
+**Battery Sourcing and Power Regulation**
+
+
 ## Team Roles
+
+**Stator Motor and Brushless Controller:** Khai and Vikram
+
+**PID Motor Control Loop:** Minh and Caleb
+
+**Wireless Radio Control:** Chloe and Ethan
 
 
 
