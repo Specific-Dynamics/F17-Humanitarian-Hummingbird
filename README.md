@@ -96,6 +96,12 @@ Final Due | April 6 - April 7
 - Built in PCB inductors for brushless motor
 - Magnet sourcing
 - https://www.openems.de/
+- Brushless controller:
+    - https://www.aliexpress.com/item/1005009347534729.html?spm=a2g0o.order_list.order_list_main.94.40601802sYVVyF
+    - https://www.aliexpress.com/item/1005009244008969.html?spm=a2g0o.order_list.order_list_main.88.40601802sYVVyF
+    - https://www.aliexpress.com/item/1005007622405526.html?spm=a2g0o.order_list.order_list_main.76.40601802sYVVyF#nav-specification
+    - https://www.aliexpress.com/item/1005005404864165.html?spm=a2g0o.order_list.order_list_main.64.40601802sYVVyF
+    
 
 **PID Motor Control Loop**
 - IMU interfacing
