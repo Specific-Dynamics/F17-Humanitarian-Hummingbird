@@ -28,6 +28,7 @@ PCB stator motors with the coils embedded in the pcb utilized in a remote contro
 Week 1 | Jan 12 - Jan 18
 -   Alpha PID dev board shipping Jan 16th
 -   Alpha Communication Dev board shipping Jan 16th
+    - Microcontroller is choosen
 -   Alpha PCB Stator tests shipping Jan 16th
 
 Week 2 | Jan 19 - Jan 25
