@@ -71,13 +71,14 @@ Week 8 | Mar 2 - Mar 8
 Week 9 | Mar 9 - Mar 15
 -   Design Review Video Presentation Mar 9th
 -   MVP Live Demo Due March 10th
+-   Integration hell begins
 
 
 Week 10 | Mar 16 - Mar 22
 -   Bi-weekly Status Report 1 Due Mar 16th
 
 Week 11 | Mar 23 - Mar 29
--   oooh la la
+-   Integration complete by end of week
 
 Week 12 | Mar 30 - April 5
 -   Bi-weekly Status Report 1 Due Mar 30
