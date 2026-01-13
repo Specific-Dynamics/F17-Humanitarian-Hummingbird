@@ -26,25 +26,36 @@ PCB stator motors with the coils embedded in the pcb utilized in a remote contro
 
 ## Project Timeline
 Week 1 | Jan 12 - Jan 18
--   Things that are due
+-   Alpha PID dev board shipping Jan 16th
+-   Alpha Communication Dev board shipping Jan 16th
+-   Alpha PCB Stator tests shipping Jan 16th
 
 Week 2 | Jan 19 - Jan 25
--   things
+-   End of week Alpha stage has arrived
+-   Stator motor shafts modeled and getting ready for cnc, (prototype in machine shop)
 
 Week 3 | Jan 26 - Feb 1
 -   Bi-weekly Status Report 1 Due Jan 26th
+-   Alpha PCB finished testing and modifications are done
+-   End of week beta dev Boards are shipping
+-   End of week stator motor CNC is shipping 
 
 Week 4 | Feb 2 - Feb 8
 -   Design Review Presentation Video Due Feb 5th
+-   Beta dev board arrive at end of week and testing can start
+-   Characterization of stator motors underway
 
 Week 5 | Feb 9 - Feb 15
 -   Bi-weekly Status Report 1 Due Feb 9th
+-   Dev boards arrive and testing starts Feb 9th
 
 Week 6 | Feb 16 - Feb 22
 -   Reading week (slave here please)
+-   Lots of testing
 
 Week 7 | Feb 23 - Mar 1
 -   Requirements Specification, and Project Plan due Feb 23rd
+-   Testing finishing up and MVP deliverables being recorded and written
 
 Week 8 | Mar 2 - Mar 8
 -   Bi-weekly Status Report 1 Due Mar 2nd
