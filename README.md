@@ -23,7 +23,55 @@ Specific Dynamics was founded by our dear leader, Vikram Andrew Procter, on Dece
 
 **Wireless Radio Control:** Chloe and Ethan
 
+## Project Timeline
+Week 1 | Jan 12 - Jan 18
+-   Things that are due
 
+Week 2 | Jan 19 - Jan 25
+-   things
+
+Week 3 | Jan 26 - Feb 1
+-   Things
+
+Week 4 | Feb 2 - Feb 8
+-   More things
+
+Week 5 | Feb 9 - Feb 15
+-   waaaaaa
+
+Week 6 | Feb 16 - Feb 22
+-   oooooohhh
+
+Week 7 | Feb 23 - Mar 1
+-   Morer things
+
+Week 8 | Mar 2 - Mar 8
+-   lalalala
+
+Week 9 | Mar 9 - Mar 15
+-   whamp
+
+Week 10 | Mar 16 - Mar 22
+-   wooow
+
+Week 11 | Mar 23 - Mar 29
+-   oooh la la
+
+Week 12 | Mar 30 - April 5
+-   Oh no
+
+Bi-weekly Status Reports: Jan 26, Feb 9, March 2, March 16, March 30
+Design Review Presentation: video due Feb 5, Q&A sheet due Feb 9, Q&A session on Feb 10
+(L01) or Feb 12 (L02)
+Requirements Specification: due Feb 23
+Project Plan: due Feb 23
+Acceptance Test Plan: due Feb 23
+Minimum Viable Product Demo: video due March 6, live demo on March 10 (L01) or March 12
+(L02)
+Design Specification: due April 6
+Test Record: due April 6
+Final Presentation and Demo: due April 6
+Prototype live demo on April 7 (L01) or April 9 (L02
 
 ## Systems Overview
 ![SystemArchitectureBlockDiagram]()  
