@@ -31,47 +31,42 @@ Week 2 | Jan 19 - Jan 25
 -   things
 
 Week 3 | Jan 26 - Feb 1
--   Things
+-   Bi-weekly Status Report 1 Due Jan 26th
+-   s
 
 Week 4 | Feb 2 - Feb 8
--   More things
+-   Design Review Presentation Video Due Feb 5th
 
 Week 5 | Feb 9 - Feb 15
--   waaaaaa
+-   Bi-weekly Status Report 1 Due Feb 9th
 
 Week 6 | Feb 16 - Feb 22
 -   oooooohhh
 
 Week 7 | Feb 23 - Mar 1
--   Morer things
+-   Requirements Specification, and Project Plan due Feb 23rd
 
 Week 8 | Mar 2 - Mar 8
--   lalalala
+-   Bi-weekly Status Report 1 Due Mar 2nd
+-   MVP Video Due March 6th
 
 Week 9 | Mar 9 - Mar 15
--   whamp
+-   Design Review Video Presentation Mar 9th
+-   MVP Live Demo Due March 10th
 
 Week 10 | Mar 16 - Mar 22
--   wooow
+-   Bi-weekly Status Report 1 Due Mar 16th
 
 Week 11 | Mar 23 - Mar 29
 -   oooh la la
 
 Week 12 | Mar 30 - April 5
--   Oh no
+-   Bi-weekly Status Report 1 Due Mar 30
 
-Bi-weekly Status Reports: Jan 26, Feb 9, March 2, March 16, March 30
-Design Review Presentation: video due Feb 5, Q&A sheet due Feb 9, Q&A session on Feb 10
-(L01) or Feb 12 (L02)
-Requirements Specification: due Feb 23
-Project Plan: due Feb 23
-Acceptance Test Plan: due Feb 23
-Minimum Viable Product Demo: video due March 6, live demo on March 10 (L01) or March 12
-(L02)
-Design Specification: due April 6
-Test Record: due April 6
-Final Presentation and Demo: due April 6
-Prototype live demo on April 7 (L01) or April 9 (L02
+Final Due | April 6 - April 7
+-   Final prototype due April 6th
+-   Final prototype Demo April 7th  
+
 
 ## Systems Overview
 ![SystemArchitectureBlockDiagram]()  
@@ -80,6 +75,7 @@ Prototype live demo on April 7 (L01) or April 9 (L02
 **Stator Motor and Brushless Controller**
 - Built in PCB inductors for brushless motor
 - Magnet sourcing
+- https://www.openems.de/
 
 **PID Motor Control Loop**
 - IMU interfacing
