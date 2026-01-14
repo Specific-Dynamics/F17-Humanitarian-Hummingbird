@@ -15,10 +15,14 @@ Specific Dynamics was founded by our dear leader, Vikram Andrew Procter, on Dece
 ## Project Overview
 PCB stator motors with the coils embedded in the pcb utilized in a remote control drone. 
 
+Control:
+-   Remote control using esp32 (either controller or fancy gesture control)
+-   Atonomous  
+
 
 ## Team Roles
 
-**Stator Motor and Brushless Controller:** Khai and Vikram
+**Motor and Homemade Brushless Controller:** Khai and Vikram
 
 **PID Motor Control Loop:** Minh and Caleb
 
@@ -96,6 +100,12 @@ Final Due | April 6 - April 7
 - Built in PCB inductors for brushless motor
 - Magnet sourcing
 - https://www.openems.de/
+- Brushless controller:
+    - https://www.aliexpress.com/item/1005009347534729.html?spm=a2g0o.order_list.order_list_main.94.40601802sYVVyF
+    - https://www.aliexpress.com/item/1005009244008969.html?spm=a2g0o.order_list.order_list_main.88.40601802sYVVyF
+    - https://www.aliexpress.com/item/1005007622405526.html?spm=a2g0o.order_list.order_list_main.76.40601802sYVVyF#nav-specification
+    - https://www.aliexpress.com/item/1005005404864165.html?spm=a2g0o.order_list.order_list_main.64.40601802sYVVyF
+
 
 **PID Motor Control Loop**
 - IMU interfacing
