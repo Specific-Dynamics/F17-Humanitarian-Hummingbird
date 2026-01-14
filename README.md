@@ -106,10 +106,11 @@ Final Due | April 6 - April 7
     - https://www.aliexpress.com/item/1005007622405526.html?spm=a2g0o.order_list.order_list_main.76.40601802sYVVyF#nav-specification
     - https://www.aliexpress.com/item/1005005404864165.html?spm=a2g0o.order_list.order_list_main.64.40601802sYVVyF
     - Mosfet choice:
-          - CSD17318Q2
-          - https://www.ti.com/product/CSD17318Q2
-          - Small package, cheap, capable of handling 30V 22A
-
+        - CSD17318Q2
+        - https://www.ti.com/product/CSD17318Q2
+        - Small package, cheap, capable of handling 30V 22A
+    - MCU choice:
+        - STM32F405RGT6 price 4.34CAD on LCSC
 **PID Motor Control Loop**
 - IMU interfacing
 - PID tuning
