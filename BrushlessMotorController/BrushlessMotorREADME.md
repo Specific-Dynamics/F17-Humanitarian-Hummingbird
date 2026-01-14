@@ -5,8 +5,6 @@
 ## Overview
 Building a pcb brusheless stator motor using the pcb traces as the motor coils 
 
-## Coil Topology
-
-
 ## Brushless Motor Controller 
+-   
 
