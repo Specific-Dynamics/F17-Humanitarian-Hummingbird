@@ -96,7 +96,7 @@ Final Due | April 6 - April 7
 ![SystemArchitectureBlockDiagram]()  
 *Block diagram overview of project's functionality*
 
-**Stator Motor and Brushless Controller**
+### Stator Motor and Brushless Controller
 - https://www.openems.de/
 - Alibaba Brushless controller for Testing:
     - [Alibaba1](https://www.aliexpress.com/item/1005009347534729.html?spm=a2g0o.order_list.order_list_main.94.40601802sYVVyF)
@@ -107,15 +107,15 @@ Final Due | April 6 - April 7
     - Mosfet choice [CSD17318Q2](https://www.ti.com/product/CSD17318Q2). Small package, cheap, capable of handling 30V 22A
     - STM Microcontroller [STM32F405RGT6](STM32F405RGT6) 
 
-**PID Motor Control Loop**
+### PID Motor Control Loop
 - IMU interfacing
 - PID tuning
 - Provide motor speed 
 
-**Wireless Radio Control**
+### Wireless Radio Control
 - Use ESP32 to communicate between controller and drone
 
-**Battery Sourcing and Power Regulation**
+### Battery Sourcing and Power Regulation
 - Source batteries with adequet capacity, current and weight
 - Develope efficient regulator circuits
 
