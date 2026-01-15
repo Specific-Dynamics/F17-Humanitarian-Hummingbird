@@ -97,18 +97,15 @@ Final Due | April 6 - April 7
 *Block diagram overview of project's functionality*
 
 **Stator Motor and Brushless Controller**
-- Built in PCB inductors for brushless motor
-- Magnet sourcing
 - https://www.openems.de/
-- Brushless controller:
-    - https://www.aliexpress.com/item/1005009347534729.html?spm=a2g0o.order_list.order_list_main.94.40601802sYVVyF
-    - https://www.aliexpress.com/item/1005009244008969.html?spm=a2g0o.order_list.order_list_main.88.40601802sYVVyF
-    - https://www.aliexpress.com/item/1005007622405526.html?spm=a2g0o.order_list.order_list_main.76.40601802sYVVyF#nav-specification
-    - https://www.aliexpress.com/item/1005005404864165.html?spm=a2g0o.order_list.order_list_main.64.40601802sYVVyF
-    - Mosfet choice:
-          - CSD17318Q2
-          - https://www.ti.com/product/CSD17318Q2
-          - Small package, cheap, capable of handling 30V 22A
+- Alibaba Brushless controller for Testing:
+    - [Alibaba1](https://www.aliexpress.com/item/1005009347534729.html?spm=a2g0o.order_list.order_list_main.94.40601802sYVVyF)
+    - [Alibaba2](https://www.aliexpress.com/item/1005009244008969.html?spm=a2g0o.order_list.order_list_main.88.40601802sYVVyF)
+    - [Alibaba3](https://www.aliexpress.com/item/1005007622405526.html?spm=a2g0o.order_list.order_list_main.76.40601802sYVVyF#nav-specification)
+    - [Alibaba4](https://www.aliexpress.com/item/1005005404864165.html?spm=a2g0o.order_list.order_list_main.64.40601802sYVVyF)
+-   Homemade Brushless controller:
+    - Mosfet choice [CSD17318Q2](https://www.ti.com/product/CSD17318Q2). Small package, cheap, capable of handling 30V 22A
+    - STM Microcontroller [STM32F405RGT6](STM32F405RGT6) 
 
 **PID Motor Control Loop**
 - IMU interfacing
