@@ -107,6 +107,9 @@ Final Due | April 6 - April 7
     - Mosfet choice [CSD17318Q2](https://www.ti.com/product/CSD17318Q2). Small package, cheap, capable of handling 30V 22A
     - STM Microcontroller [STM32F405RGT6](STM32F405RGT6) 
 
+### Drone Physics 
+- Done weight: $w=50g/battery+4*5.6g/motor+(70cm*70cm)*(2.9kg/m^2_{pcb})+$
+
 ### PID Motor Control Loop
 - IMU interfacing
 - PID tuning
@@ -120,15 +123,15 @@ Final Due | April 6 - April 7
 - Develope efficient regulator circuits
 
 
-## Stator Motors
-### PCB Motor Inductors
--   Epic [video](https://www.youtube.com/watch?v=CVszJMlvZcA) for inspiration
--   To buy motors [here](https://microbots.io/products/motorcell)
--   Open source [resource](https://github.com/microbotsio/MotorCell/tree/main/hardware/PCB%20Stator)
+## Motors and Control
 
-### Magnets
+### Brushless Motor
+Using a quad-copter arrangement with the YSIDO 1104 7500KV 8600KV Brushless Motor from [alibaba](https://www.aliexpress.com/item/1005005729701162.html)
 
 ### Brushless Motor Controllers
+Using a [STM32F405RGT6](https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F405RGT6/2754208) to run timing and phase control.
+
+Using the [DRV8328ARUYR](https://www.digikey.ca/en/products/detail/texas-instruments/DRV8328ARUYR/15857167) as gate driver for each phase mosfet. Each chip drives 6 fets or enough for 1 motor.
 
 
 
