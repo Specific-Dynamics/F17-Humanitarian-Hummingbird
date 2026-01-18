@@ -105,7 +105,7 @@ Final Due | April 6 - April 7
     - [Alibaba3](https://www.aliexpress.com/item/1005007622405526.html?spm=a2g0o.order_list.order_list_main.76.40601802sYVVyF#nav-specification)
     - [Alibaba4](https://www.aliexpress.com/item/1005005404864165.html?spm=a2g0o.order_list.order_list_main.64.40601802sYVVyF)
 -   Homemade Brushless controller:
-    - Mosfet choice [CSD17318Q2](https://www.ti.com/product/CSD17318Q2). Small package, cheap, capable of handling 30V 22A
+    - Mosfet choice [CSD17581Q5A](https://www.ti.com/product/CSD17581Q5A)
     - STM Microcontroller [STM32F405RGT6](STM32F405RGT6) 
 
 ### PID Motor Control Loop
