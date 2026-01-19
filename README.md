@@ -96,12 +96,17 @@ Final Due | April 6 - April 7
 ![SystemArchitectureBlockDiagram]()  
 *Block diagram overview of project's functionality*
 
-### Drone  Motor and Brushless Controller
-- COTS [YSIDO](https://www.aliexpress.com/item/1005005729701162.html) motors
-- Homemade brushless controller using [STM32F405RGT6](https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F405RGT6/2754208)
-
-### Drone Physics 
-- Done weight: $w=50g/battery+4*5.6g/motor+(70cm*70cm)*(2.9kg/m^2_{pcb})+$
+### Stator Motor and Brushless Controller
+- DRV8304
+- https://www.openems.de/
+- Alibaba Brushless controller for Testing:
+    - [Alibaba1](https://www.aliexpress.com/item/1005009347534729.html?spm=a2g0o.order_list.order_list_main.94.40601802sYVVyF)
+    - [Alibaba2](https://www.aliexpress.com/item/1005009244008969.html?spm=a2g0o.order_list.order_list_main.88.40601802sYVVyF)
+    - [Alibaba3](https://www.aliexpress.com/item/1005007622405526.html?spm=a2g0o.order_list.order_list_main.76.40601802sYVVyF#nav-specification)
+    - [Alibaba4](https://www.aliexpress.com/item/1005005404864165.html?spm=a2g0o.order_list.order_list_main.64.40601802sYVVyF)
+-   Homemade Brushless controller:
+    - Mosfet choice [CSD17581Q5A](https://www.ti.com/product/CSD17581Q5A)
+    - STM Microcontroller [STM32F405RGT6](STM32F405RGT6) 
 
 ### PID Motor Control Loop
 - IMU interfacing
@@ -116,13 +121,41 @@ Final Due | April 6 - April 7
 - Develope efficient regulator circuits
 
 
-## Motors and Control
+## Stator Motors
+### PCB Motor Inductors
+-   Epic [video](https://www.youtube.com/watch?v=CVszJMlvZcA) for inspiration
+-   To buy motors [here](https://microbots.io/products/motorcell)
+-   Open source [resource](https://github.com/microbotsio/MotorCell/tree/main/hardware/PCB%20Stator)
 
-### Brushless Motor
-Using a quad-copter arrangement with the YSIDO 1104 7500KV 8600KV Brushless Motor from [alibaba](https://www.aliexpress.com/item/1005005729701162.html).
+### Magnets
 
 ### Brushless Motor Controllers
-Using a [STM32F405RGT6](https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F405RGT6/2754208) to run timing and phase control.
+
+
+
+## PID Motor Control Loop
+### IMU Interfacing
+
+### Microcontroller Utilization
+
+### Motor Controller Speed Output
+
+
+
+## Wireless Radio Control
+### Microcontroller Utilization
+
+### Antennna Placement
+
+### Data Structure and Transfer Protocol
+
+
+## Power Regulation
+### Battery Sourcing
+
+### Regulation Circuitry
+
+[STM32F405RGT6](https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F405RGT6/2754208) to run timing and phase control.
 
 Using the [DRV8304SRHAR](https://www.digikey.ca/en/products/detail/texas-instruments/DRV8304SRHAR/10715416) as gate driver for each phase mosfet. Each chip drives 6 fets or enough for 1 motor.
 
