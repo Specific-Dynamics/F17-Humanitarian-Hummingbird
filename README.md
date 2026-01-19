@@ -105,8 +105,8 @@ Final Due | April 6 - April 7
     - [Alibaba3](https://www.aliexpress.com/item/1005007622405526.html?spm=a2g0o.order_list.order_list_main.76.40601802sYVVyF#nav-specification)
     - [Alibaba4](https://www.aliexpress.com/item/1005005404864165.html?spm=a2g0o.order_list.order_list_main.64.40601802sYVVyF)
 -   Homemade Brushless controller:
-    - Mosfet choice [CSD17581Q5A](https://www.ti.com/product/CSD17581Q5A)
-    - STM Microcontroller [STM32F405RGT6](STM32F405RGT6) 
+    - Mosfet choice [CSD17581Q5A](https://www.ti.com/product/CSD17581Q5A), [digikey](https://www.digikey.ca/en/products/detail/texas-instruments/CSD17581Q5A/6205539)
+    - STM Microcontroller [STM32F405RGT6](STM32F405RGT6)
 
 ### PID Motor Control Loop
 - IMU interfacing
