@@ -30,33 +30,33 @@ Control:
 
 ## Project Timeline
 Week 1 | Jan 12 - Jan 18
--   Alpha PID dev board shipping Jan 16th
--   Alpha Communication Dev board shipping Jan 16th
-    - Microcontroller is choosen
--   Alpha PCB Stator tests shipping Jan 16th
+-   Background research into dev boards and component selection
+-   Communication testing can begin using pre-built Dev boards
+    - Final ESP Microcontroller is choosen
+-   Schematics for Motor controller and PID dev board complete
 
 Week 2 | Jan 19 - Jan 25
--   End of week Alpha stage has arrived
--   Stator motor shafts modeled and getting ready for cnc, (prototype in machine shop)
+-   Schematic reviews for dev boards and routing begins
+-   End of week pcb routing is complete and critical design reviews occuring
 
 Week 3 | Jan 26 - Feb 1
 -   Bi-weekly Status Report 1 Due Jan 26th
--   Alpha PCB finished testing and modifications are done
--   End of week beta dev Boards are shipping
--   End of week stator motor CNC is shipping 
+-   JLC orders made for all dev boards
 
 Week 4 | Feb 2 - Feb 8
 -   Design Review Presentation Video Due Feb 5th
--   Beta dev board arrive at end of week and testing can start
--   Characterization of stator motors underway
+-   Dev board arrive at end of week and testing can start
+-   Talk with Dankers for tuning PID 
 
 Week 5 | Feb 9 - Feb 15
 -   Bi-weekly Status Report 1 Due Feb 9th
 -   Dev boards arrive and testing starts Feb 9th
+-   Motor controller and PID integration should occur
 
-Week 6 | Feb 16 - Feb 22
+Week 6 | Feb 16 - Feb 22 (READING WEEK)
 -   Reading week (slave here please)
 -   Lots of testing
+-   Something should be flying, work on controller integration
 
 Week 7 | Feb 23 - Mar 1
 -   Requirements Specification, and Project Plan due Feb 23rd
@@ -66,16 +66,20 @@ Week 8 | Mar 2 - Mar 8
 -   Bi-weekly Status Report 1 Due Mar 2nd
 -   MVP Video Due March 6th
 -   What should be working:
-    - Radio communication working timely
-    - PID tuned to fly with some drone motors and be tuneable
-    - Stator motors tested and final design decided on
+    - Radio communication working
+    - PID tuned to fly with drone motors and be tuneable
+    - Integration with homemade motor controllers
     - Everthing has been documented for testing and operation
     - Drone PCB designed and scaled properly
 
 Week 9 | Mar 9 - Mar 15
 -   Design Review Video Presentation Mar 9th
 -   MVP Live Demo Due March 10th
--   Integration hell begins
+-   Begin on bonus feature development
+    - UWB
+    - Gesture controls
+    - docking station
+    - payloads
 
 
 Week 10 | Mar 16 - Mar 22
