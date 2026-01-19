@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP CSD17581Q5A
-D MOSFETs 30-V, N channel NexFET power MOSFET, single SON 5 mm x 6 mm, 4.2 mOhm 8-VSONP -55 to 150
-K
-F https://www.mouser.sg/ProductDetail/Texas-Instruments/CSD17581Q5A?qs=OEYMhS7p3YbsopVGomtIsw%3D%3D
-$ENDCMP
-#
-#End Doc Library

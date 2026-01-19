@@ -1,9 +1,0 @@
-Manufacturer=Texas Instruments
-PartNumber=CSD17581Q5A
-PartCategory=MOSFET (N-Channel)
-PackageCategory=Other
-PinCount=9
-Version=1.1
-Released=2024-12-05 14:20:59
-Downloaded=2026-01-18 08:37:29
-3D=Y
