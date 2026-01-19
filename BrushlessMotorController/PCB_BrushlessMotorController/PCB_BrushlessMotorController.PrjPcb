@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZNNQKIPN
 
 [Document2]
-DocumentPath=Motor Driver.SchDoc
+DocumentPath=MOSFET_Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -217,7 +217,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KVQRYXSU
 
 [Configuration1]
 Name=Sources
