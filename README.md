@@ -124,7 +124,7 @@ Using a quad-copter arrangement with the YSIDO 1104 7500KV 8600KV Brushless Moto
 ### Brushless Motor Controllers
 Using a [STM32F405RGT6](https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F405RGT6/2754208) to run timing and phase control.
 
-Using the [DRV8328ARUYR](https://www.digikey.ca/en/products/detail/texas-instruments/DRV8328ARUYR/15857167) as gate driver for each phase mosfet. Each chip drives 6 fets or enough for 1 motor.
+Using the [DRV8304SRHAR](https://www.digikey.ca/en/products/detail/texas-instruments/DRV8304SRHAR/10715416) as gate driver for each phase mosfet. Each chip drives 6 fets or enough for 1 motor.
 
 
 ## PID Motor Control Loop
