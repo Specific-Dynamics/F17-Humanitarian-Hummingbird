@@ -129,14 +129,6 @@ Final Due | April 6 - April 7
 ### Selected Drone Motors
 
 
-### Brushless Motor Controller
-- Microcontroller [STM32F405RGT6](https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F405RGT6/2754208) to run timing and phase control.
-
-- FET driver [DRV8304SRHAR](https://www.digikey.ca/en/products/detail/texas-instruments/DRV8304SRHAR/10715416) as gate driver for each phase mosfet. Each chip drives 6 fets or enough for 1 motor.
-
-- NMOS selected [CSD17581Q5A](https://www.ti.com/product/CSD17581Q5A), [digikey](https://www.digikey.ca/en/products/detail/texas-instruments/CSD17581Q5A/6205539)
-
-
 ## PID Motor Control Loop
 ### IMU Interfacing
 
