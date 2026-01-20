@@ -6,6 +6,10 @@
 Building a pcb brusheless stator motor using the pcb traces as the motor coils 
 
 ### Component Selction
+
+### Drone  Motor and Brushless Controller
+- Drone Motors: COTS [YSIDO](https://www.aliexpress.com/item/1005005729701162.html)
+
 - Microcontroller [STM32F405RGT6](https://www.digikey.ca/en/products/detail/stmicroelectronics/STM32F405RGT6/2754208) to run timing and phase control.
 
 - FET driver [DRV8329BREER](https://www.digikey.ca/en/products/detail/texas-instruments/DRV8329BREER/18178578) as gate driver for each phase mosfet. Each chip drives 6 fets or enough for 1 motor.
