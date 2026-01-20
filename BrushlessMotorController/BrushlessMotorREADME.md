@@ -16,6 +16,11 @@ Building a pcb brusheless stator motor using the pcb traces as the motor coils
 
 
 ## MOSFET Driver
-- nFAULT: Fault indicator output. This pin is pulled logic low during a fault condition and requires an external pull-up resistor to 3.3V to 5.0V. (Pg. 5)
-- Current Sense Operation
+**Fault Detection:**  
+*nFAULT* pin: Fault indicator output. This pin is pulled logic low during a fault condition and requires an external pull-up resistor to 3.3V to 5.0V. (Pg. 5)
+
+Current Sense Operation:
+- Monitors low side drain current by find voltage drop across R_sense. This voltage is then variably amplified.
+- *SP, SN* pins: voltage drop across R_sense
+- *CSAGAIN* pin: Resistor pull down determines gain. Should be shorted to GND
 
