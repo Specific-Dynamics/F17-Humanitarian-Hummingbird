@@ -123,6 +123,11 @@ Final Due | April 6 - April 7
 - Source batteries with adequet capacity, current and weight
 - Develope efficient regulator circuits
 
+## Physical Design
+### Drone Physics 
+- Done weight: $w=50g/battery+4*5.6g/motor+(70mm*70mm)*(2.9kg/m^2_{pcb})+10g/ESP32\simeq97g$
+- Total Drone weight should be around **100g**
+
 
 ## Drone Motors and Brushless Controller
 
@@ -137,7 +142,6 @@ Final Due | April 6 - April 7
 ### Motor Controller Speed Output
 
 
-
 ## Wireless Radio Control
 ### Microcontroller Utilization
 
@@ -150,22 +154,4 @@ Final Due | April 6 - April 7
 ### Battery Sourcing
 
 ### Regulation Circuitry
-
-
-## PID Motor Control Loop
-### IMU Interfacing
-
-### Microcontroller Utilization
-
-### Motor Controller Speed Output
-
-
-
-## Wireless Radio Control
-### Microcontroller Utilization
-
-### Antennna Placement
-
-### Data Structure and Transfer Protocol
-
 
