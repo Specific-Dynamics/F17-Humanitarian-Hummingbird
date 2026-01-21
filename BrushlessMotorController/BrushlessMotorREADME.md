@@ -46,3 +46,5 @@ Building a pcb brusheless stator motor using the pcb traces as the motor coils
     - So this feature will be disabled by grounding $V_{DSLVL}$ through **100kΩ** resistor
     - Same goes for VSENSE Overcurrent Protection (SEN_OCP) (Pg.27), which looks at the voltage drop across the R_sense
 
+- *DRVOFF* pin: (pg. 24) When this pin is pulled high the Gate drivers are overriden and pulled low turning off all FETs. There is an strong internal pull down to prevent false positives. This pin will be connected to a comparitor monitoring the R_sense voltage to ensure when current max is reached the DRVOFF pin is pulled high 
+
