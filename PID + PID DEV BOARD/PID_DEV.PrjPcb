@@ -67,6 +67,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
+DocumentPath=Main.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UFJRTWXD
+
+[Document3]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,8 +100,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVAUIVMY
 
-[Document3]
-DocumentPath=PID_DEV1.SchDoc
+[Document4]
+DocumentPath=Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,14 +117,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KJYWTIYD
 
-[Document4]
-DocumentPath=Connectors.SchDoc
+[Document5]
+DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -115,7 +132,24 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UFJRTWXD
+DocumentUniqueId=VXILBWSR
+
+[Document6]
+DocumentPath=PID_DEV.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
