@@ -1,0 +1,996 @@
+Removed Pin From Net: NetName=NetQ?_1 Pin=Q?-1
+Removed Pin From Net: NetName=NetQ?_1 Pin=Q?-2
+Removed Pin From Net: NetName=NetQ?_1 Pin=Q?-5
+Removed Pin From Net: NetName=NetQ?_1 Pin=Q?-6
+Removed Pin From Net: NetName=NetQ?_1 Pin=Q?-8
+Change Component Footprint: Designator=Q? Old Footprint=TRANS_CSD17318Q2 New Footprint=NMOS CSD17581Q5A
+Change Component Footprint: Designator=Q? Old Footprint=TRANS_CSD17318Q2 New Footprint=NMOS CSD17581Q5A
+Change Component Footprint: Designator=Q? Old Footprint=TRANS_CSD17318Q2 New Footprint=NMOS CSD17581Q5A
+Change Component Footprint: Designator=Q? Old Footprint=TRANS_CSD17318Q2 New Footprint=NMOS CSD17581Q5A
+Change Component Footprint: Designator=Q? Old Footprint=TRANS_CSD17318Q2 New Footprint=NMOS CSD17581Q5A
+Change Component Footprint: Designator=Q? Old Footprint=TRANS_CSD17318Q2 New Footprint=NMOS CSD17581Q5A
+Change Component Comment : Designator=Q? Old Comment=CSD17318Q2 New Comment=CSD17581Q5A
+Change Component Comment : Designator=Q? Old Comment=CSD17318Q2 New Comment=CSD17581Q5A
+Change Component Comment : Designator=Q? Old Comment=CSD17318Q2 New Comment=CSD17581Q5A
+Change Component Comment : Designator=Q? Old Comment=CSD17318Q2 New Comment=CSD17581Q5A
+Change Component Comment : Designator=Q? Old Comment=CSD17318Q2 New Comment=CSD17581Q5A
+Change Component Comment : Designator=Q? Old Comment=CSD17318Q2 New Comment=CSD17581Q5A
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "TRANS_CSD17318Q2"; UniqueID = "\WCSYRVHT" ("\WCSYRVHT")
+Change component parameters (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "123A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "3.64nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17581Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "3.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=1.19, 10=0.746, 100=0.4909, 500=0.38112, 1000=0.34576 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "3.4mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8541290080, 8541290080|8541290080|8541290080|8541290080|8541290080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "2529"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "296-49602-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "TRANS_CSD17318Q2"; UniqueID = "\MCGFWONB" ("\MCGFWONB")
+Change component parameters (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "123A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "3.64nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17581Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "3.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=1.19, 10=0.746, 100=0.4909, 500=0.38112, 1000=0.34576 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "3.4mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8541290080, 8541290080|8541290080|8541290080|8541290080|8541290080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "2529"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "296-49602-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "TRANS_CSD17318Q2"; UniqueID = "\NYAMRAJR" ("\NYAMRAJR")
+Change component parameters (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "123A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "3.64nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17581Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "3.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=1.19, 10=0.746, 100=0.4909, 500=0.38112, 1000=0.34576 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "3.4mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8541290080, 8541290080|8541290080|8541290080|8541290080|8541290080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "2529"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "296-49602-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "TRANS_CSD17318Q2"; UniqueID = "\ISJQSYXS" ("\ISJQSYXS")
+Change component parameters (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "123A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "3.64nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17581Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "3.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=1.19, 10=0.746, 100=0.4909, 500=0.38112, 1000=0.34576 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "3.4mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8541290080, 8541290080|8541290080|8541290080|8541290080|8541290080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "2529"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "296-49602-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "TRANS_CSD17318Q2"; UniqueID = "\XKNTCPLV" ("\XKNTCPLV")
+Change component parameters (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "123A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "3.64nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17581Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "3.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=1.19, 10=0.746, 100=0.4909, 500=0.38112, 1000=0.34576 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "3.4mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8541290080, 8541290080|8541290080|8541290080|8541290080|8541290080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "2529"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "296-49602-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q?" ("Q?"); Footprint = "TRANS_CSD17318Q2"; UniqueID = "\NHZKRAWS" ("\NHZKRAWS")
+Change component parameters (AddParameter): Name = "Category"; Value = "MOSFETs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://sigma.octopart.com:443/184372194/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://octopart.com:443/opatz8j6/c1?t=fadXL9fHJs-9TBtIbs2t3BLYr8l5dGIrtcfxBRI18eebunVd_mIH635_C-HrsZeBh7E5mK1naEwUr2OlUlKP9V_3Ixj0YHOK2Htexx1gLUB4S6dWMKxzboMOJbSK0cjOIWFDMKzFnHjdl_PULvD9OmQ1BmfMlywqa3x7dVtcppZnScSVschHyW4NKUDlpxXlc452a65n9RKj9X4XGrL51p-IsJTzo2Qq0HNdYNeXVWSE9EMLS4GYp6FypcAuxFdDynvdXm-zdSLE44qp3i-0ObrD588IwxAVdN38t0DohXwZrVPtq478F5n0GfUMziRsrHS-dEHLRfwmuVHgzUTm_IxxqSoRgzf4xEieSb9UZJVVKtpo4lbxR9O6DOUOUCfJh4_zakzfeq9z&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com:443/183468693/technical_drawing/Texas-Instruments-CSD17581Q5A.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-159114908.pdf?src-supplier=Augswan"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CSD17581Q5A-Texas-Instruments-datasheet-150578225.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "123A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "30V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Input Capacitance"; Value = "3.64nF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CSD17581Q5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "3.1W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=1.19, 10=0.746, 100=0.4909, 500=0.38112, 1000=0.34576 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rds On Max"; Value = "3.4mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Schedule B"; Value = "8541290080, 8541290080|8541290080|8541290080|8541290080|8541290080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "2529"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "296-49602-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "6mm"; VariantName = "[No Variations]"
+Added Component: Designator=C1(Capacitor 0603)
+Added Component: Designator=C2(Capacitor 0603)
+Added Component: Designator=C3(Capacitor 0603)
+Added Component: Designator=C4(Capacitor 0603)
+Added Component: Designator=C5(Capacitor 0603)
+Added Component: Designator=C6(Capacitor 0603)
+Added Component: Designator=C7(Capacitor 0603)
+Added Component: Designator=C8(Capacitor 0603)
+Added Component: Designator=C9(Capacitor 0603)
+Added Component: Designator=C10(Capacitor 0603)
+Added Component: Designator=C11(Capacitor 0603)
+Added Component: Designator=C12(Capacitor 0603)
+Added Component: Designator=C13(Capacitor 0603)
+Added Component: Designator=C14(Capacitor 0603)
+Added Component: Designator=C15(Capacitor 0603)
+Added Component: Designator=C16(Capacitor 0603)
+Added Component: Designator=C17(Capacitor 0603)
+Added Component: Designator=C18(Capacitor 0603)
+Added Component: Designator=C19(Capacitor 0603)
+Added Component: Designator=C20(Capacitor 0603)
+Added Component: Designator=C21(Capacitor 0603)
+Added Component: Designator=C22(Capacitor 0603)
+Added Component: Designator=C?(CAP 0603)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-181960519.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-181960519.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-97040617.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-97040617.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-136031754.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-136031754.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-110226289.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-110226289.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-81461787.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-81461787.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-48647232.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-48647232.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-34157262.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-34157262.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-26589120.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-26589120.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-149156481.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-149156481.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-11968064.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-11968064.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-8326407.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-8326407.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-136031742.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-136031742.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-8328790.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-8328790.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-22147431.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-22147431.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-110326820.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-110326820.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-81461776.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-81461776.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink18Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-42485231.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink18URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-42485231.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink19Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-26589109.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink19URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-26589109.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink20Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-149156475.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink20URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-149156475.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink21Description"; Value = "https://datasheet.octopart.com/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-97040617.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink21URL"; Value = "https://datasheet.octopart.com/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-97040617.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink22Description"; Value = "https://datasheet.octopart.com/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink22URL"; Value = "https://datasheet.octopart.com/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink23Description"; Value = "https://datasheet.octopart.com/General-Multilayer-Ceramic-Capacitors-Samsung-datasheet-family-111.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink23URL"; Value = "https://datasheet.octopart.com/General-Multilayer-Ceramic-Capacitors-Samsung-datasheet-family-111.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink24Description"; Value = "http://sigma.octopart.com:80/rohs_certificate/General-Multilayer-Ceramic-Capacitors-Samsung-family-110.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink24URL"; Value = "http://sigma.octopart.com:80/rohs_certificate/General-Multilayer-Ceramic-Capacitors-Samsung-family-110.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink25Description"; Value = "http://sigma.octopart.com:80/rohs_statement/General-Multilayer-Ceramic-Capacitors-Samsung-family-132.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink25URL"; Value = "http://sigma.octopart.com:80/rohs_statement/General-Multilayer-Ceramic-Capacitors-Samsung-family-132.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink26Description"; Value = "http://sigma.octopart.com:80/reach_statement/General-Multilayer-Ceramic-Capacitors-Samsung-family-133.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink26URL"; Value = "http://sigma.octopart.com:80/reach_statement/General-Multilayer-Ceramic-Capacitors-Samsung-family-133.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink27Description"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-182020265.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink27URL"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-182020265.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink28Description"; Value = "https://datasheet.octopart.com/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink28URL"; Value = "https://datasheet.octopart.com/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink29Description"; Value = "https://datasheet.octopart.com/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-97040617.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink29URL"; Value = "https://datasheet.octopart.com/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-97040617.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink30Description"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-136482334.pdf?src-supplier=Samsung+SCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink30URL"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-136482334.pdf?src-supplier=Samsung+SCT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink31Description"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-116120879.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink31URL"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-116120879.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink32Description"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-81461873.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink32URL"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-81461873.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink33Description"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-datasheet-42280540.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink33URL"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-datasheet-42280540.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink34Description"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-datasheet-26669037.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink34URL"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-datasheet-26669037.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink35Description"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-149136822.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink35URL"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-149136822.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink36Description"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-datasheet-8326407.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink36URL"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-datasheet-8326407.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink37Description"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-11733201.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink37URL"; Value = "https://datasheet.octopart.com:443/CL10B223KB8NNNC-Samsung-Electro-Mechanics-datasheet-11733201.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "800µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "800µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.08, 10=0.026 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8532240020, 8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "3141848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1276-1192-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "889µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP 0603)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-181960519.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-181960519.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-97040617.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-97040617.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-136031754.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-136031754.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-110226289.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-110226289.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-81461787.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-81461787.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-48647232.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-48647232.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-34157262.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-34157262.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-26589120.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-26589120.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-149156481.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-149156481.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-11968064.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-Electro-Mechanics-datasheet-11968064.pdf?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-8326407.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/CL10A106KP8NNNC-Samsung-datasheet-8326407.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-136031742.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-136031742.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-8328790.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-8328790.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-22147431.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-22147431.pdf?src-supplier=TME"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-110326820.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-110326820.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-81461776.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-81461776.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink18Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-42485231.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink18URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-42485231.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink19Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-26589109.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink19URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-datasheet-26589109.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink20Description"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-149156475.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink20URL"; Value = "https://datasheet.octopart.com:443/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-149156475.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink21Description"; Value = "https://datasheet.octopart.com/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-97040617.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink21URL"; Value = "https://datasheet.octopart.com/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-97040617.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink22Description"; Value = "https://datasheet.octopart.com/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink22URL"; Value = "https://datasheet.octopart.com/CL10A105KA8NNNC-Samsung-Electro-Mechanics-datasheet-8324245.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink23Description"; Value = "https://datasheet.octopart.com/General-Multilayer-Ceramic-Capacitors-Samsung-datasheet-family-111.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink23URL"; Value = "https://datasheet.octopart.com/General-Multilayer-Ceramic-Capacitors-Samsung-datasheet-family-111.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink24Description"; Value = "http://sigma.octopart.com:80/rohs_certificate/General-Multilayer-Ceramic-Capacitors-Samsung-family-110.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink24URL"; Value = "http://sigma.octopart.com:80/rohs_certificate/General-Multilayer-Ceramic-Capacitors-Samsung-family-110.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink25Description"; Value = "http://sigma.octopart.com:80/rohs_statement/General-Multilayer-Ceramic-Capacitors-Samsung-family-132.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink25URL"; Value = "http://sigma.octopart.com:80/rohs_statement/General-Multilayer-Ceramic-Capacitors-Samsung-family-132.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink26Description"; Value = "http://sigma.octopart.com:80/reach_statement/General-Multilayer-Ceramic-Capacitors-Samsung-family-133.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink26URL"; Value = "http://sigma.octopart.com:80/reach_statement/General-Multilayer-Ceramic-Capacitors-Samsung-family-133.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "800µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "800µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CL10A106KP8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.08, 10=0.026 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8532240020, 8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|8532240020|85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "3141848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1276-1192-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "889µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Added Component: Designator=D1(WL-SMCW_0603_150060xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "700µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "60mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "645nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "630nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Added Component: Designator=D2(WL-SMCW_0603_150060xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "570nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "700µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "40mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "572nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "72mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "570nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Added Component: Designator=D3(WL-SMCW_0603_150060xx75000)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "570nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "700µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear, Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "40mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "95°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Reverse Voltage (DC)"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength"; Value = "572nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "72mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "570nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Add component: Footprint Not Found AMASS_XT30PW-M
+Added Component: Designator=L1(FP-SPM6530-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ind"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_power_spm6530_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Wirewound"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Metal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Fixed Inductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "FIXED IND 2.2UH 8.2A 19 MOHM SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "2.2uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SPM6530T-2R2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Fixed Inductors 2.2uH 0.0173ohms 7.1x6.5x3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/spm6530t-2r2m-tdk-18903909"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SPM6530"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rms Current"; Value = "8.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Saturation Current"; Value = "8.4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series Resistance"; Value = "19.1mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2uH"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor 0603)
+Added Component: Designator=R2(Resistor 0603)
+Added Component: Designator=R3(Resistor 0603)
+Added Component: Designator=R4(Resistor 0603)
+Added Component: Designator=R5(Resistor 0603)
+Added Component: Designator=R6(Resistor 0603)
+Added Component: Designator=R7(Resistor 0603)
+Added Component: Designator=R8(Resistor 0603)
+Added Component: Designator=R9(Resistor 0603)
+Added Component: Designator=R?(RES 0603)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "China RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-175887523.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-175887523.pdf?src-supplier=IHS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-103092701.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-103092701.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-98239111.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-98239111.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-141265859.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-141265859.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://sigma.octopart.com:443/138820526/technical_drawing/Yageo-RC0603FR-0710KL.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://sigma.octopart.com:443/138820526/technical_drawing/Yageo-RC0603FR-0710KL.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-8328172.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-8328172.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-13691069.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-13691069.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-62067350.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-62067350.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-17842380.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-17842380.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-15599030.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-15599030.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-Group-datasheet-176638170.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-Group-datasheet-176638170.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-164759695.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-164759695.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-127823281.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-127823281.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-137700087.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink14URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-137700087.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-27584510.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink15URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-27584510.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-8324193.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink16URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-8324193.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-12596169.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink17URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-12596169.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink18Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-503470.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink18URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-503470.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink19Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-34211833.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink19URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-34211833.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink20Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-79472498.pdf?src-supplier=Megastar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink20URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-79472498.pdf?src-supplier=Megastar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink21Description"; Value = "https://datasheet.octopart.com/RC0603FR-0710KL-Yageo-datasheet-73766026.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink21URL"; Value = "https://datasheet.octopart.com/RC0603FR-0710KL-Yageo-datasheet-73766026.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink22Description"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-118562.pdf?src-supplier=DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink22URL"; Value = "https://datasheet.octopart.com:443/RC0603FR-0710KL-Yageo-datasheet-118562.pdf?src-supplier=DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink23Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Yageo-company-3.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink23URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Yageo-company-3.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink24Description"; Value = "http://sigma.octopart.com:80/rohs_statement/Yageo-company-2.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink24URL"; Value = "http://sigma.octopart.com:80/rohs_statement/Yageo-company-2.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "800µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "450µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "300µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0603FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape & Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.1, 10=0.006, 25=0.0052 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8533210045, 8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|8533210045|85"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "8704221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "311-10.0KHRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "2.012816mg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Added Component: Designator=S1(SW_DS04-254-2-02BK-SMT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS04-254-2-02BK-SMT/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS04-254-2-02BK-SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS04-254-2-02BK-SMT/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SW1(FP-PTS647SM38SMTR2LFS-MFG)
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "180gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "IP40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(FP-PTS647SM38SMTR2LFS-MFG)
+Add component (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Non-Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "180gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "IP40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Travel"; Value = "0.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Added Component: Designator=U2(STM32F405RGT6)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F405RGT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component: Footprint Not Found DDC0006A
+Added Component: Designator=U4(01000063Z)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuseclip_100_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "01000063Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "576-01000063Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/01000063Z?qs=DPoM0jnrROVX1yuIJJJkYg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U?(DRV8329BREER)
+Add component (AddParameter): Name = "Category"; Value = "Motor Drivers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://octopart.com:443/opatz8j6/c1?t=-_IgGX4lo-wVOVoHwo7IzGlLkpFBfNMYJSSwqNsYL7lOaswL1iUuzd3gWLNQNF44NGHoP-84dSRTm9D9_WGjP_SIj41vIcbRvd7u3YGKG5HXYxv1ZDJFZLdFuseY0-D9Y2n5ofhMmmtEkS9WGIYb2r6xjghVTWInGRu88fJdV-f0JnVYqkVXeIjL1lKZt0ZTU9pN3p7ftNbkxL9JSTcEpTPBXsbnEunf8T_S5J4H_9VzsudzOe76pYuRECOf9nMJG3W_RQRnidBxZizPt2dkor_duxPPNTRM8xcmEbJUu-Kd71NobxybqRg189F7acDsoz1FyTtnGZ2bcFeVMJONplWbFa0CB2d1c75Vvs-G-914OlMLtRIcbHj_FL8I7MeadtYe3_zx&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://octopart.com:443/opatz8j6/c1?t=-_IgGX4lo-wVOVoHwo7IzGlLkpFBfNMYJSSwqNsYL7lOaswL1iUuzd3gWLNQNF44NGHoP-84dSRTm9D9_WGjP_SIj41vIcbRvd7u3YGKG5HXYxv1ZDJFZLdFuseY0-D9Y2n5ofhMmmtEkS9WGIYb2r6xjghVTWInGRu88fJdV-f0JnVYqkVXeIjL1lKZt0ZTU9pN3p7ftNbkxL9JSTcEpTPBXsbnEunf8T_S5J4H_9VzsudzOe76pYuRECOf9nMJG3W_RQRnidBxZizPt2dkor_duxPPNTRM8xcmEbJUu-Kd71NobxybqRg189F7acDsoz1FyTtnGZ2bcFeVMJONplWbFa0CB2d1c75Vvs-G-914OlMLtRIcbHj_FL8I7MeadtYe3_zx&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "DRV8329BREER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=2.58, 10=1.92, 25=1.7556, 100=1.5741, 250=1.48764, 500=1.4355, 1000=1.39259, 2500=1.34729, 5000=1.32 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "4980"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "296-DRV8329BREER-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "750µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5mm"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(FP-ABM8G-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "CSMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "80R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "16MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency"; Value = "16 MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ABM8G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series Resistance"; Value = "80R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(FP-ABS07-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "CSMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "70kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency"; Value = "32.768 kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ABS07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series Resistance"; Value = "70kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.5mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-5
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-6
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-7
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-8
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-9
+Added Pin To Net: NetName=+3V3 Pin=C3-2
+Added Pin To Net: NetName=+3V3 Pin=C4-2
+Added Pin To Net: NetName=+3V3 Pin=C5-2
+Added Pin To Net: NetName=+3V3 Pin=C6-2
+Added Pin To Net: NetName=+3V3 Pin=C7-2
+Added Pin To Net: NetName=+3V3 Pin=C8-2
+Added Pin To Net: NetName=+3V3 Pin=C10-2
+Added Pin To Net: NetName=+3V3 Pin=C11-2
+Added Pin To Net: NetName=+3V3 Pin=C20-2
+Added Pin To Net: NetName=+3V3 Pin=C21-2
+Added Pin To Net: NetName=+3V3 Pin=C22-2
+Added Pin To Net: NetName=+3V3 Pin=D3-2
+Added Pin To Net: NetName=+3V3 Pin=L1-2
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=R7-2
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=S1-1B
+Added Pin To Net: NetName=+3V3 Pin=S1-2B
+Added Pin To Net: NetName=+3V3 Pin=SW2-3
+Added Pin To Net: NetName=+3V3 Pin=SW2-4
+Added Pin To Net: NetName=+3V3 Pin=U2-1
+Added Pin To Net: NetName=+3V3 Pin=U2-13
+Added Pin To Net: NetName=+3V3 Pin=U2-19
+Added Pin To Net: NetName=+3V3 Pin=U2-32
+Added Pin To Net: NetName=+3V3 Pin=U2-48
+Added Pin To Net: NetName=+3V3 Pin=U2-64
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+7V4_RAW Pin=U4-1
+Added Pin To Net: NetName=+7V4_RAW Pin=U4-2
+Added Net: Name=+7V4_RAW
+Added Pin To Net: NetName=+7V4 Pin=C17-2
+Added Pin To Net: NetName=+7V4 Pin=C18-2
+Added Pin To Net: NetName=+7V4 Pin=C19-2
+Added Pin To Net: NetName=+7V4 Pin=C?-2
+Added Pin To Net: NetName=+7V4 Pin=D2-2
+Added Pin To Net: NetName=+7V4 Pin=Q?-1
+Added Pin To Net: NetName=+7V4 Pin=Q?-1
+Added Pin To Net: NetName=+7V4 Pin=Q?-1
+Added Pin To Net: NetName=+7V4 Pin=Q?-2
+Added Pin To Net: NetName=+7V4 Pin=Q?-2
+Added Pin To Net: NetName=+7V4 Pin=Q?-2
+Added Pin To Net: NetName=+7V4 Pin=Q?-3
+Added Pin To Net: NetName=+7V4 Pin=Q?-3
+Added Pin To Net: NetName=+7V4 Pin=Q?-3
+Added Pin To Net: NetName=+7V4 Pin=U4-3
+Added Pin To Net: NetName=+7V4 Pin=U4-4
+Added Net: Name=+7V4
+Added Pin To Net: NetName=BOOT0 Pin=R3-2
+Added Pin To Net: NetName=BOOT0 Pin=S1-2A
+Added Pin To Net: NetName=BOOT0 Pin=U2-60
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=BOOT1 Pin=R2-2
+Added Pin To Net: NetName=BOOT1 Pin=S1-1A
+Added Pin To Net: NetName=BOOT1 Pin=U2-28
+Added Net: Name=BOOT1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-63
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-25
+Added Pin To Net: NetName=GND Pin=U?-37
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=U2-31
+Added Pin To Net: NetName=NetC1_2 Pin=U2-47
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=L1-1
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R6-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R9-2
+Added Net: Name=NetD3_1
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-35
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU?_27 Pin=U?-27
+Added Net: Name=NetU?_27
+Added Pin To Net: NetName=NetU?_28 Pin=U?-28
+Added Net: Name=NetU?_28
+Added Pin To Net: NetName=NetU?_29 Pin=U?-29
+Added Net: Name=NetU?_29
+Added Pin To Net: NetName=NetU?_30 Pin=U?-30
+Added Net: Name=NetU?_30
+Added Pin To Net: NetName=NetU?_31 Pin=U?-31
+Added Net: Name=NetU?_31
+Added Pin To Net: NetName=NetU?_32 Pin=U?-32
+Added Net: Name=NetU?_32
+Added Pin To Net: NetName=NetU?_34 Pin=U?-34
+Added Net: Name=NetU?_34
+Added Pin To Net: NetName=NRST Pin=C9-2
+Added Pin To Net: NetName=NRST Pin=R1-1
+Added Pin To Net: NetName=NRST Pin=SW1-3
+Added Pin To Net: NetName=NRST Pin=SW1-4
+Added Pin To Net: NetName=NRST Pin=U2-7
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSC32_IN Pin=C14-1
+Added Pin To Net: NetName=OSC32_IN Pin=U2-3
+Added Pin To Net: NetName=OSC32_IN Pin=Y2-2
+Added Net: Name=OSC32_IN
+Added Pin To Net: NetName=OSC32_OUT Pin=C15-1
+Added Pin To Net: NetName=OSC32_OUT Pin=U2-4
+Added Pin To Net: NetName=OSC32_OUT Pin=Y2-1
+Added Net: Name=OSC32_OUT
+Added Pin To Net: NetName=OSC_IN Pin=C12-2
+Added Pin To Net: NetName=OSC_IN Pin=U2-5
+Added Pin To Net: NetName=OSC_IN Pin=Y1-1
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C13-2
+Added Pin To Net: NetName=OSC_OUT Pin=U2-6
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-3
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=PB0 Pin=R5-2
+Added Pin To Net: NetName=PB0 Pin=SW2-1
+Added Pin To Net: NetName=PB0 Pin=SW2-2
+Added Pin To Net: NetName=PB0 Pin=U2-26
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=D1-2
+Added Pin To Net: NetName=PB1 Pin=U2-27
+Added Net: Name=PB1
+Change Class Name : Old Net Name=Main New Net Name=MOSFET_Driver
+Added Class: Name=Power
+Added Class: Name=STM32
+Added Member To Class: ClassName=MOSFET_Driver Member=Component C? 22nF
+Added Member To Class: ClassName=MOSFET_Driver Member=Component C? 1uF
+Added Member To Class: ClassName=MOSFET_Driver Member=Component Q? CSD17581Q5A
+Added Member To Class: ClassName=MOSFET_Driver Member=Component Q? CSD17581Q5A
+Added Member To Class: ClassName=MOSFET_Driver Member=Component Q? CSD17581Q5A
+Added Member To Class: ClassName=MOSFET_Driver Member=Component Q? CSD17581Q5A
+Added Member To Class: ClassName=MOSFET_Driver Member=Component Q? CSD17581Q5A
+Added Member To Class: ClassName=MOSFET_Driver Member=Component R? 10k
+Added Member To Class: ClassName=MOSFET_Driver Member=Component U? DRV8329BREER
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
