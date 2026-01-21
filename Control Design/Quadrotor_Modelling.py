@@ -6,10 +6,16 @@ import math
 #   https://www.sciencedirect.com/science/article/pii/S1367578823000640
 #   https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=885341
 
-# Section 6.4.1 details 3 important design contstraints: lwk I don't think we care
-#   1. Maximum Mass
-#   2. Maximum Span
-#   3. Target Thrust-to-Weight Ratio
+# IMU Datasheet: https://invensense.tdk.com/wp-content/uploads/2022/07/DS-000330-ICM-40609-D-v1.2.pdf
+
+# We should consider using library implementations of code for getting the Euler angles from
+# the IMU data. We could also consider learning the quaternion based implementation to avoid
+# some of the errors with the explosion of the trig. functions, also the computational overhead
+# is supposedly lower with quaternions beacuse we avoid needing to call trig. functions.
+
+# Madgwick Filter: https://x-io.co.uk/downloads/madgwick_internal_report.pdf
+# Supposed Madgwick filter implementation would return attiude as a quaternion which could be converted
+# into Euler angles for use in the model developed in
 
 ##########################################################################################################
 
