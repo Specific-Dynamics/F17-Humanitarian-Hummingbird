@@ -1,5 +1,11 @@
 import math
 
+##########################################################################################################
+
+# Planning and Reference
+
+##########################################################################################################
+
 # Equations and method from Advances in Unmanned Aerial Vehicles: State of the Art and the Road to Autonomy (2007), Chapter 6
 # Other modeling: 
 #   https://www.researchgate.net/publication/343309950_Modeling_Control_and_Simulation_of_Quadrotor_UAV
@@ -7,6 +13,10 @@ import math
 #   https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=885341
 
 # IMU Datasheet: https://invensense.tdk.com/wp-content/uploads/2022/07/DS-000330-ICM-40609-D-v1.2.pdf
+# ARHS: https://files.microstrain.com/product_datasheets/3DM-GX3-25_datasheet_version_1.07a.pdf
+
+# Might want to use an ARHS instead of an IMU for less processing. Madgwick is for working with raw
+# IMU data to find heading and attitude.
 
 # We should consider using library implementations of code for getting the Euler angles from
 # the IMU data. We could also consider learning the quaternion based implementation to avoid
@@ -14,8 +24,11 @@ import math
 # is supposedly lower with quaternions beacuse we avoid needing to call trig. functions.
 
 # Madgwick Filter: https://x-io.co.uk/downloads/madgwick_internal_report.pdf
+# C Madgwick Implementation to steal: https://github.com/mongoose-os-libs/imu/blob/master/src/madgwick.c
 # Supposed Madgwick filter implementation would return attiude as a quaternion which could be converted
-# into Euler angles for use in the model developed in
+# into Euler angles for use in the model developed in the textbook paper. Also returns angular acceleration 
+# data and directional acceleration which we should be able to integrate to get relative velocity and relative 
+# position.
 
 ##########################################################################################################
 
