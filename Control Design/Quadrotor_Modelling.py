@@ -8,12 +8,13 @@ import math
 
 # Equations and method from Advances in Unmanned Aerial Vehicles: State of the Art and the Road to Autonomy (2007), Chapter 6
 # Other modeling: 
-#   https://www.researchgate.net/publication/343309950_Modeling_Control_and_Simulation_of_Quadrotor_UAV
-#   https://www.sciencedirect.com/science/article/pii/S1367578823000640
-#   https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=885341
+#   Modeling, Control, and Simulation of Quadrotor UAV: https://www.researchgate.net/publication/343309950_Modeling_Control_and_Simulation_of_Quadrotor_UAV
+#   PID Control of Quadrotor UAVs: https://www.sciencedirect.com/science/article/pii/S1367578823000640
+#   Control design of quadrotor aircraft based on improved integral backstepping sliding mode: https://onlinelibrary.wiley.com/doi/10.1002/asjc.3444
+#   ^^^ Uses the same modelling as the textbook paper so this one might be very useful
 
 # IMU Datasheet: https://invensense.tdk.com/wp-content/uploads/2022/07/DS-000330-ICM-40609-D-v1.2.pdf
-# ARHS: https://files.microstrain.com/product_datasheets/3DM-GX3-25_datasheet_version_1.07a.pdf
+# ARHS: https://files.microstrain.com/product_datasheets/3DM-GX3-25_datasheet_version_1.07a.pdf (Might be a good idea)
 
 # Might want to use an ARHS instead of an IMU for less processing. Madgwick is for working with raw
 # IMU data to find heading and attitude.
@@ -42,7 +43,41 @@ import math
 # With integral-backstepping, the Lyapunov function is used to maintain stability
 # We also want the integral and derivative values of pretty much every error 
 
-# Each of the derivative values essentially implements a PID
+# Integral Backstepping: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=885341
+
+# Each of the derivative values essentially implements a PID (More like a PI)
+
+#####################
+
+# NOTE: MOST MODELS ASSUME SYMMETRIC AIRCRAFT
+
+#####################
+
+# Rotor Convention (For the rotor speeds used in the input vector) (xy plane view, O is the origin)
+# Reminder that aerospace calculations take place in the NED coordinate axis
+# x -> N
+# y -> E
+# z -> D
+
+#       2 
+#   3   O   1 ---> N
+#       4
+
+# U1: Total Thrust 
+# U2: Roll Moment (Forces acting about north axis)
+# U3: Pitch Moment (Forces acting about east axis)
+# U4: Yaw Moment (Forces acting about down axis)
+
+# Big note that we will need the moments of intertia about each of the aircraft axes as well as 
+# some model of the rotational inertia of the rotors.
+
+# Most of the time we will want the pitch and roll to be zero (hovering) or at fixed values 
+# when moving.
+
+# In the original paper, relative postion was supplied directly to the MCU on the drone via
+# a reference pattern and an onboard camera. To get a similar bearing we would have to use
+# the positioning provided by the UWB beacons or rely on the double integration the linear
+# accelerations.
 
 # Attitude Control
 #   Setpoints:
@@ -148,6 +183,7 @@ def main() -> None:
 
     for propeller in propellers:
         rotor_area = math.pi * (propeller.radius) ** 2
+        # Note that this is entirely inaccurate and super wrong.
         thrust = thrust_force(
             thrust_coefficient=0.1,
             air_density=AIR_DENSITY,
