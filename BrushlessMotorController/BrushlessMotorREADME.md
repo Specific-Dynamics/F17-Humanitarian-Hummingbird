@@ -17,7 +17,7 @@ Building a pcb brusheless stator motor using the pcb traces as the motor coils
 - NMOS selected [CSD17581Q5A](https://www.ti.com/product/CSD17581Q5A), [digikey](https://www.digikey.ca/en/products/detail/texas-instruments/CSD17581Q5A/6205539)
 
 ## Microcontroller
-
+nothing
 
 ## MOSFET Driver
 **Fault Detection:**  
