@@ -4,11 +4,52 @@ import math
 # Other modeling: 
 #   https://www.researchgate.net/publication/343309950_Modeling_Control_and_Simulation_of_Quadrotor_UAV
 #   https://www.sciencedirect.com/science/article/pii/S1367578823000640
+#   https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=885341
 
 # Section 6.4.1 details 3 important design contstraints: lwk I don't think we care
 #   1. Maximum Mass
 #   2. Maximum Span
 #   3. Target Thrust-to-Weight Ratio
+
+##########################################################################################################
+
+# Control Variables
+
+##########################################################################################################
+
+# Motivation: Feedback will control the RPM on each of the rotors
+
+# The original paper recommends integral-backstepping
+# With integral-backstepping, the Lyapunov function is used to maintain stability
+# We also want the integral and derivative values of pretty much every error 
+
+# Each of the derivative values essentially implements a PID
+
+# Attitude Control
+#   Setpoints:
+#       Attitude (3-axis)
+#       Angular velocity (3-axis) 
+
+# Altitude Control
+#   Setpoints:
+#       Altitude (1-axis)
+#       Climb (1-axis)
+
+# Position Control
+#   Setpoints:
+#       Position (2-axis)
+#       Speed (2-axis)
+
+##########################################################################################################
+
+# Pseudocode
+
+##########################################################################################################
+
+# Attitude Control
+roll_tracking_error = roll_tracking_error
+pitch_tracking_error = pitch_tracking_error
+yaw_tracking_error = yaw_tracking_error
 
 ##########################################################################################################
 
