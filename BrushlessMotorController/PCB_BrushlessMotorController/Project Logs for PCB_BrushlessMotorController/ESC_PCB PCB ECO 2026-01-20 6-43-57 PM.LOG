@@ -1,0 +1,363 @@
+Change Component Designator: OldDesignator=C?_U_MOSFET_Driver1 NewDesignator=C23_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=C?_U_MOSFET_Driver1 NewDesignator=C24_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=C?_U_MOSFET_Driver2 NewDesignator=C23_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=C?_U_MOSFET_Driver2 NewDesignator=C24_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=C?_U_MOSFET_Driver3 NewDesignator=C23_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=C?_U_MOSFET_Driver3 NewDesignator=C24_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=C?_U_MOSFET_Driver4 NewDesignator=C23_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=C?_U_MOSFET_Driver4 NewDesignator=C24_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver1 NewDesignator=Q1_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver1 NewDesignator=Q2_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver1 NewDesignator=Q3_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver1 NewDesignator=Q4_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver1 NewDesignator=Q5_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver1 NewDesignator=Q6_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver2 NewDesignator=Q1_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver2 NewDesignator=Q2_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver2 NewDesignator=Q3_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver2 NewDesignator=Q4_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver2 NewDesignator=Q5_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver2 NewDesignator=Q6_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver3 NewDesignator=Q1_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver3 NewDesignator=Q2_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver3 NewDesignator=Q3_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver3 NewDesignator=Q4_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver3 NewDesignator=Q5_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver3 NewDesignator=Q6_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver4 NewDesignator=Q1_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver4 NewDesignator=Q2_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver4 NewDesignator=Q3_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver4 NewDesignator=Q4_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver4 NewDesignator=Q5_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=Q?_U_MOSFET_Driver4 NewDesignator=Q6_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver1 NewDesignator=R10_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver1 NewDesignator=R11_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver1 NewDesignator=R12_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver1 NewDesignator=R13_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver1 NewDesignator=R14_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver1 NewDesignator=R15_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver2 NewDesignator=R10_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver2 NewDesignator=R11_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver2 NewDesignator=R12_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver2 NewDesignator=R13_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver2 NewDesignator=R14_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver2 NewDesignator=R15_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver3 NewDesignator=R10_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver3 NewDesignator=R11_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver3 NewDesignator=R12_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver3 NewDesignator=R13_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver3 NewDesignator=R14_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver3 NewDesignator=R15_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver4 NewDesignator=R10_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver4 NewDesignator=R11_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver4 NewDesignator=R12_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver4 NewDesignator=R13_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver4 NewDesignator=R14_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=R?_U_MOSFET_Driver4 NewDesignator=R15_U_MOSFET_Driver4
+Change Component Designator: OldDesignator=U?_U_MOSFET_Driver1 NewDesignator=U1_U_MOSFET_Driver1
+Change Component Designator: OldDesignator=U?_U_MOSFET_Driver2 NewDesignator=U1_U_MOSFET_Driver2
+Change Component Designator: OldDesignator=U?_U_MOSFET_Driver3 NewDesignator=U1_U_MOSFET_Driver3
+Change Component Designator: OldDesignator=U?_U_MOSFET_Driver4 NewDesignator=U1_U_MOSFET_Driver4
+Added Component: Designator=J1(CON Battery XT30PW-M)
+Added Component: Designator=U3(SOT-23-6 BUCK)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Voltage Regulators - Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://sigma.octopart.com:443/180581133/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://sigma.octopart.com:443/180581133/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://octopart.com:443/opatz8j6/c1?t=Cv-Lo8ASJusiJfElOe7z2ljxGeXtJ8lqLP9BC0eK5YNLfL06F7HMEd5N1WE3NPOP6IvB1nQBLT12y1FtS9_uPp2YbBEL2PL9gfjSq5oOePM0khV_mMemhu5rL8AyYVbv3ro5Yr5Xaft1iScT362vYDvLsh1Wa8j_Acvm_9W9pKeCXkQpsPk-yt-DcRapfm5RzB8YKTDEzwn_xrdp7tbYMQMivVkW1p40byy9zeG4JNjkhuIz91wQWh6t4apklw3le3J32NiRPV8RDaxzAtYQfSNjQzmPD15TdxW3tQEfaezFphfzrKYm1uh62iNuqGcD254JwsmnegLrGLPPQVxDRn8fklZ0Lq_5O2fYtr_WjUHi3qngfrRxFCsQYcmZLfxKDDiLWzkTQQ&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://octopart.com:443/opatz8j6/c1?t=Cv-Lo8ASJusiJfElOe7z2ljxGeXtJ8lqLP9BC0eK5YNLfL06F7HMEd5N1WE3NPOP6IvB1nQBLT12y1FtS9_uPp2YbBEL2PL9gfjSq5oOePM0khV_mMemhu5rL8AyYVbv3ro5Yr5Xaft1iScT362vYDvLsh1Wa8j_Acvm_9W9pKeCXkQpsPk-yt-DcRapfm5RzB8YKTDEzwn_xrdp7tbYMQMivVkW1p40byy9zeG4JNjkhuIz91wQWh6t4apklw3le3J32NiRPV8RDaxzAtYQfSNjQzmPD15TdxW3tQEfaezFphfzrKYm1uh62iNuqGcD254JwsmnegLrGLPPQVxDRn8fklZ0Lq_5O2fYtr_WjUHi3qngfrRxFCsQYcmZLfxKDDiLWzkTQQ&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com:443/179311906/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com:443/179311906/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://sigma.octopart.com:443/159779760/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://sigma.octopart.com:443/159779760/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://sigma.octopart.com:443/149167535/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://sigma.octopart.com:443/149167535/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-34136799.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-34136799.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-32015788.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-32015788.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://sigma.octopart.com:443/49250152/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://sigma.octopart.com:443/49250152/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-165804783.pdf?src-supplier=LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-165804783.pdf?src-supplier=LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-159118152.pdf?src-supplier=LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-159118152.pdf?src-supplier=LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-140571900.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-140571900.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS563209DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Duty Cycle"; Value = "65%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "17V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "760mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "650µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "650µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "17V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.02, 10=0.732, 25=0.6604, 100=0.5819, 250=0.54452, 500=0.522, 1000=0.50346 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "650µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8542390000, 8542390000|8542390000|8542390000|8542390000|8542390000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5463"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "296-40813-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "650kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "870µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "29.993795mg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-N
+Added Pin To Net: NetName=+7V4_RAW Pin=J1-P
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=NetC16_2 Pin=U3-2
+Added Pin To Net: NetName=+7V4 Pin=U3-3
+Added Pin To Net: NetName=NetR7_1 Pin=U3-4
+Added Pin To Net: NetName=+7V4 Pin=U3-5
+Added Pin To Net: NetName=NetC16_1 Pin=U3-6
+Change Net Name : Old Net Name=NetC?_U_MOSFET_Driver1_1 New Net Name=NetC23_U_MOSFET_Driver1_1
+Change Net Name : Old Net Name=NetC?_U_MOSFET_Driver1_2 New Net Name=NetC24_U_MOSFET_Driver1_2
+Change Net Name : Old Net Name=NetC?_U_MOSFET_Driver2_1 New Net Name=NetC24_U_MOSFET_Driver2_1
+Change Net Name : Old Net Name=NetC?_U_MOSFET_Driver2_2 New Net Name=NetC24_U_MOSFET_Driver2_2
+Change Net Name : Old Net Name=NetC?_U_MOSFET_Driver3_1 New Net Name=NetC24_U_MOSFET_Driver3_1
+Change Net Name : Old Net Name=NetC?_U_MOSFET_Driver3_2 New Net Name=NetC24_U_MOSFET_Driver3_2
+Change Net Name : Old Net Name=NetC?_U_MOSFET_Driver4_1 New Net Name=NetC23_U_MOSFET_Driver4_1
+Change Net Name : Old Net Name=NetC?_U_MOSFET_Driver4_2 New Net Name=NetC24_U_MOSFET_Driver4_2
+Change Net Name : Old Net Name=NetQ?_U_MOSFET_Driver1_1 New Net Name=NetQ5_U_MOSFET_Driver1_1
+Change Net Name : Old Net Name=NetQ?_U_MOSFET_Driver1_4 New Net Name=NetQ2_U_MOSFET_Driver1_4
+Change Net Name : Old Net Name=NetQ?_U_MOSFET_Driver2_1 New Net Name=NetQ3_U_MOSFET_Driver2_5
+Change Net Name : Old Net Name=NetQ?_U_MOSFET_Driver2_4 New Net Name=NetQ2_U_MOSFET_Driver2_4
+Change Net Name : Old Net Name=NetQ?_U_MOSFET_Driver3_1 New Net Name=NetQ3_U_MOSFET_Driver3_5
+Change Net Name : Old Net Name=NetQ?_U_MOSFET_Driver3_4 New Net Name=NetQ2_U_MOSFET_Driver3_4
+Change Net Name : Old Net Name=NetQ?_U_MOSFET_Driver4_1 New Net Name=NetQ3_U_MOSFET_Driver4_5
+Change Net Name : Old Net Name=NetQ?_U_MOSFET_Driver4_4 New Net Name=NetQ2_U_MOSFET_Driver4_4
+Change Net Name : Old Net Name=NetR?_U_MOSFET_Driver1_1 New Net Name=NetR12_U_MOSFET_Driver1_2
+Change Net Name : Old Net Name=NetR?_U_MOSFET_Driver1_2 New Net Name=NetR15_U_MOSFET_Driver1_2
+Change Net Name : Old Net Name=NetR?_U_MOSFET_Driver2_1 New Net Name=NetR12_U_MOSFET_Driver2_2
+Change Net Name : Old Net Name=NetR?_U_MOSFET_Driver2_2 New Net Name=NetR15_U_MOSFET_Driver2_2
+Change Net Name : Old Net Name=NetR?_U_MOSFET_Driver3_1 New Net Name=NetR13_U_MOSFET_Driver3_2
+Change Net Name : Old Net Name=NetR?_U_MOSFET_Driver3_2 New Net Name=NetR11_U_MOSFET_Driver3_2
+Change Net Name : Old Net Name=NetR?_U_MOSFET_Driver4_1 New Net Name=NetR13_U_MOSFET_Driver4_2
+Change Net Name : Old Net Name=NetR?_U_MOSFET_Driver4_2 New Net Name=NetR15_U_MOSFET_Driver4_2
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver1_2 New Net Name=NetU1_U_MOSFET_Driver1_2
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver1_27 New Net Name=NetU1_U_MOSFET_Driver1_27
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver1_28 New Net Name=NetU1_U_MOSFET_Driver1_28
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver1_29 New Net Name=NetU1_U_MOSFET_Driver1_29
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver1_30 New Net Name=NetU1_U_MOSFET_Driver1_30
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver1_31 New Net Name=NetU1_U_MOSFET_Driver1_31
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver1_32 New Net Name=NetU1_U_MOSFET_Driver1_32
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver1_34 New Net Name=NetU1_U_MOSFET_Driver1_34
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver2_2 New Net Name=NetU1_U_MOSFET_Driver2_2
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver2_27 New Net Name=NetU1_U_MOSFET_Driver2_27
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver2_28 New Net Name=NetU1_U_MOSFET_Driver2_28
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver2_29 New Net Name=NetU1_U_MOSFET_Driver2_29
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver2_30 New Net Name=NetU1_U_MOSFET_Driver2_30
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver2_31 New Net Name=NetU1_U_MOSFET_Driver2_31
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver2_32 New Net Name=NetU1_U_MOSFET_Driver2_32
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver2_34 New Net Name=NetU1_U_MOSFET_Driver2_34
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver3_2 New Net Name=NetU1_U_MOSFET_Driver3_2
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver3_27 New Net Name=NetU1_U_MOSFET_Driver3_27
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver3_28 New Net Name=NetU1_U_MOSFET_Driver3_28
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver3_29 New Net Name=NetU1_U_MOSFET_Driver3_29
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver3_30 New Net Name=NetU1_U_MOSFET_Driver3_30
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver3_31 New Net Name=NetU1_U_MOSFET_Driver3_31
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver3_32 New Net Name=NetU1_U_MOSFET_Driver3_32
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver3_34 New Net Name=NetU1_U_MOSFET_Driver3_34
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver4_2 New Net Name=NetU1_U_MOSFET_Driver4_2
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver4_27 New Net Name=NetU1_U_MOSFET_Driver4_27
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver4_28 New Net Name=NetU1_U_MOSFET_Driver4_28
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver4_29 New Net Name=NetU1_U_MOSFET_Driver4_29
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver4_30 New Net Name=NetU1_U_MOSFET_Driver4_30
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver4_31 New Net Name=NetU1_U_MOSFET_Driver4_31
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver4_32 New Net Name=NetU1_U_MOSFET_Driver4_32
+Change Net Name : Old Net Name=NetU?_U_MOSFET_Driver4_34 New Net Name=NetU1_U_MOSFET_Driver4_34
+Added Pin To Net: NetName=NetC23_U_MOSFET_Driver2_1 Pin=C23_U_MOSFET_Driver2-1
+Added Pin To Net: NetName=NetC23_U_MOSFET_Driver2_1 Pin=U1_U_MOSFET_Driver2-8
+Added Net: Name=NetC23_U_MOSFET_Driver2_1
+Added Pin To Net: NetName=NetC23_U_MOSFET_Driver3_1 Pin=C23_U_MOSFET_Driver3-1
+Added Pin To Net: NetName=NetC23_U_MOSFET_Driver3_1 Pin=U1_U_MOSFET_Driver3-8
+Added Net: Name=NetC23_U_MOSFET_Driver3_1
+Added Pin To Net: NetName=NetC24_U_MOSFET_Driver1_1 Pin=C24_U_MOSFET_Driver1-1
+Added Pin To Net: NetName=NetC24_U_MOSFET_Driver1_1 Pin=U1_U_MOSFET_Driver1-6
+Added Net: Name=NetC24_U_MOSFET_Driver1_1
+Added Pin To Net: NetName=NetC24_U_MOSFET_Driver4_1 Pin=C24_U_MOSFET_Driver4-1
+Added Pin To Net: NetName=NetC24_U_MOSFET_Driver4_1 Pin=U1_U_MOSFET_Driver4-6
+Added Net: Name=NetC24_U_MOSFET_Driver4_1
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver1_5 Pin=Q1_U_MOSFET_Driver1-5
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver1_5 Pin=Q1_U_MOSFET_Driver1-6
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver1_5 Pin=Q1_U_MOSFET_Driver1-7
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver1_5 Pin=Q1_U_MOSFET_Driver1-8
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver1_5 Pin=Q1_U_MOSFET_Driver1-9
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver1_5 Pin=Q2_U_MOSFET_Driver1-1
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver1_5 Pin=Q2_U_MOSFET_Driver1-2
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver1_5 Pin=Q2_U_MOSFET_Driver1-3
+Added Net: Name=NetQ1_U_MOSFET_Driver1_5
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver2_5 Pin=Q1_U_MOSFET_Driver2-5
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver2_5 Pin=Q1_U_MOSFET_Driver2-6
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver2_5 Pin=Q1_U_MOSFET_Driver2-7
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver2_5 Pin=Q1_U_MOSFET_Driver2-8
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver2_5 Pin=Q1_U_MOSFET_Driver2-9
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver2_5 Pin=Q2_U_MOSFET_Driver2-1
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver2_5 Pin=Q2_U_MOSFET_Driver2-2
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver2_5 Pin=Q2_U_MOSFET_Driver2-3
+Added Net: Name=NetQ1_U_MOSFET_Driver2_5
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver3_5 Pin=Q1_U_MOSFET_Driver3-5
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver3_5 Pin=Q1_U_MOSFET_Driver3-6
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver3_5 Pin=Q1_U_MOSFET_Driver3-7
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver3_5 Pin=Q1_U_MOSFET_Driver3-8
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver3_5 Pin=Q1_U_MOSFET_Driver3-9
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver3_5 Pin=Q2_U_MOSFET_Driver3-1
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver3_5 Pin=Q2_U_MOSFET_Driver3-2
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver3_5 Pin=Q2_U_MOSFET_Driver3-3
+Added Net: Name=NetQ1_U_MOSFET_Driver3_5
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver4_5 Pin=Q1_U_MOSFET_Driver4-5
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver4_5 Pin=Q1_U_MOSFET_Driver4-6
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver4_5 Pin=Q1_U_MOSFET_Driver4-7
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver4_5 Pin=Q1_U_MOSFET_Driver4-8
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver4_5 Pin=Q1_U_MOSFET_Driver4-9
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver4_5 Pin=Q2_U_MOSFET_Driver4-1
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver4_5 Pin=Q2_U_MOSFET_Driver4-2
+Added Pin To Net: NetName=NetQ1_U_MOSFET_Driver4_5 Pin=Q2_U_MOSFET_Driver4-3
+Added Net: Name=NetQ1_U_MOSFET_Driver4_5
+Added Pin To Net: NetName=NetQ3_U_MOSFET_Driver1_5 Pin=Q3_U_MOSFET_Driver1-5
+Added Pin To Net: NetName=NetQ3_U_MOSFET_Driver1_5 Pin=Q3_U_MOSFET_Driver1-6
+Added Pin To Net: NetName=NetQ3_U_MOSFET_Driver1_5 Pin=Q3_U_MOSFET_Driver1-7
+Added Pin To Net: NetName=NetQ3_U_MOSFET_Driver1_5 Pin=Q3_U_MOSFET_Driver1-8
+Added Pin To Net: NetName=NetQ3_U_MOSFET_Driver1_5 Pin=Q3_U_MOSFET_Driver1-9
+Added Pin To Net: NetName=NetQ3_U_MOSFET_Driver1_5 Pin=Q4_U_MOSFET_Driver1-1
+Added Pin To Net: NetName=NetQ3_U_MOSFET_Driver1_5 Pin=Q4_U_MOSFET_Driver1-2
+Added Pin To Net: NetName=NetQ3_U_MOSFET_Driver1_5 Pin=Q4_U_MOSFET_Driver1-3
+Added Net: Name=NetQ3_U_MOSFET_Driver1_5
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver2_1 Pin=Q5_U_MOSFET_Driver2-1
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver2_1 Pin=Q5_U_MOSFET_Driver2-2
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver2_1 Pin=Q5_U_MOSFET_Driver2-3
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver2_1 Pin=Q6_U_MOSFET_Driver2-5
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver2_1 Pin=Q6_U_MOSFET_Driver2-6
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver2_1 Pin=Q6_U_MOSFET_Driver2-7
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver2_1 Pin=Q6_U_MOSFET_Driver2-8
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver2_1 Pin=Q6_U_MOSFET_Driver2-9
+Added Net: Name=NetQ5_U_MOSFET_Driver2_1
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver3_1 Pin=Q5_U_MOSFET_Driver3-1
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver3_1 Pin=Q5_U_MOSFET_Driver3-2
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver3_1 Pin=Q5_U_MOSFET_Driver3-3
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver3_1 Pin=Q6_U_MOSFET_Driver3-5
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver3_1 Pin=Q6_U_MOSFET_Driver3-6
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver3_1 Pin=Q6_U_MOSFET_Driver3-7
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver3_1 Pin=Q6_U_MOSFET_Driver3-8
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver3_1 Pin=Q6_U_MOSFET_Driver3-9
+Added Net: Name=NetQ5_U_MOSFET_Driver3_1
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver4_1 Pin=Q5_U_MOSFET_Driver4-1
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver4_1 Pin=Q5_U_MOSFET_Driver4-2
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver4_1 Pin=Q5_U_MOSFET_Driver4-3
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver4_1 Pin=Q6_U_MOSFET_Driver4-5
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver4_1 Pin=Q6_U_MOSFET_Driver4-6
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver4_1 Pin=Q6_U_MOSFET_Driver4-7
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver4_1 Pin=Q6_U_MOSFET_Driver4-8
+Added Pin To Net: NetName=NetQ5_U_MOSFET_Driver4_1 Pin=Q6_U_MOSFET_Driver4-9
+Added Net: Name=NetQ5_U_MOSFET_Driver4_1
+Added Pin To Net: NetName=NetR11_U_MOSFET_Driver1_2 Pin=R11_U_MOSFET_Driver1-2
+Added Pin To Net: NetName=NetR11_U_MOSFET_Driver1_2 Pin=U1_U_MOSFET_Driver1-35
+Added Net: Name=NetR11_U_MOSFET_Driver1_2
+Added Pin To Net: NetName=NetR11_U_MOSFET_Driver2_2 Pin=R11_U_MOSFET_Driver2-2
+Added Pin To Net: NetName=NetR11_U_MOSFET_Driver2_2 Pin=U1_U_MOSFET_Driver2-35
+Added Net: Name=NetR11_U_MOSFET_Driver2_2
+Added Pin To Net: NetName=NetR11_U_MOSFET_Driver4_2 Pin=R11_U_MOSFET_Driver4-2
+Added Pin To Net: NetName=NetR11_U_MOSFET_Driver4_2 Pin=U1_U_MOSFET_Driver4-35
+Added Net: Name=NetR11_U_MOSFET_Driver4_2
+Added Pin To Net: NetName=NetR12_U_MOSFET_Driver3_2 Pin=R12_U_MOSFET_Driver3-2
+Added Pin To Net: NetName=NetR12_U_MOSFET_Driver3_2 Pin=R13_U_MOSFET_Driver3-1
+Added Net: Name=NetR12_U_MOSFET_Driver3_2
+Added Pin To Net: NetName=NetR12_U_MOSFET_Driver4_2 Pin=R12_U_MOSFET_Driver4-2
+Added Pin To Net: NetName=NetR12_U_MOSFET_Driver4_2 Pin=R13_U_MOSFET_Driver4-1
+Added Net: Name=NetR12_U_MOSFET_Driver4_2
+Added Pin To Net: NetName=NetR13_U_MOSFET_Driver1_2 Pin=R13_U_MOSFET_Driver1-2
+Added Pin To Net: NetName=NetR13_U_MOSFET_Driver1_2 Pin=R14_U_MOSFET_Driver1-1
+Added Net: Name=NetR13_U_MOSFET_Driver1_2
+Added Pin To Net: NetName=NetR13_U_MOSFET_Driver2_2 Pin=R13_U_MOSFET_Driver2-2
+Added Pin To Net: NetName=NetR13_U_MOSFET_Driver2_2 Pin=R14_U_MOSFET_Driver2-1
+Added Net: Name=NetR13_U_MOSFET_Driver2_2
+Added Pin To Net: NetName=NetR14_U_MOSFET_Driver1_2 Pin=R14_U_MOSFET_Driver1-2
+Added Pin To Net: NetName=NetR14_U_MOSFET_Driver1_2 Pin=U1_U_MOSFET_Driver1-3
+Added Net: Name=NetR14_U_MOSFET_Driver1_2
+Added Pin To Net: NetName=NetR14_U_MOSFET_Driver2_2 Pin=R14_U_MOSFET_Driver2-2
+Added Pin To Net: NetName=NetR14_U_MOSFET_Driver2_2 Pin=U1_U_MOSFET_Driver2-3
+Added Net: Name=NetR14_U_MOSFET_Driver2_2
+Added Pin To Net: NetName=NetR14_U_MOSFET_Driver3_2 Pin=R14_U_MOSFET_Driver3-2
+Added Pin To Net: NetName=NetR14_U_MOSFET_Driver3_2 Pin=U1_U_MOSFET_Driver3-3
+Added Net: Name=NetR14_U_MOSFET_Driver3_2
+Added Pin To Net: NetName=NetR14_U_MOSFET_Driver4_2 Pin=R14_U_MOSFET_Driver4-2
+Added Pin To Net: NetName=NetR14_U_MOSFET_Driver4_2 Pin=U1_U_MOSFET_Driver4-3
+Added Net: Name=NetR14_U_MOSFET_Driver4_2
+Added Pin To Net: NetName=NetR15_U_MOSFET_Driver3_2 Pin=R15_U_MOSFET_Driver3-2
+Added Pin To Net: NetName=NetR15_U_MOSFET_Driver3_2 Pin=U1_U_MOSFET_Driver3-33
+Added Net: Name=NetR15_U_MOSFET_Driver3_2
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C23_U_MOSFET_Driver1 (C23) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component C23_U_MOSFET_Driver4 (C23) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C24_U_MOSFET_Driver2 (C24) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C24_U_MOSFET_Driver3 (C24) 470nF
+Added Member To Class: ClassName=U_Power Member=Component J1 XT30PW-M
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q1_U_MOSFET_Driver2 (Q1) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q1_U_MOSFET_Driver3 (Q1) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q1_U_MOSFET_Driver4 (Q1) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q2_U_MOSFET_Driver1 (Q2) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q2_U_MOSFET_Driver3 (Q2) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q3_U_MOSFET_Driver1 (Q3) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q3_U_MOSFET_Driver2 (Q3) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q3_U_MOSFET_Driver4 (Q3) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q4_U_MOSFET_Driver1 (Q4) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q4_U_MOSFET_Driver2 (Q4) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q4_U_MOSFET_Driver3 (Q4) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q4_U_MOSFET_Driver4 (Q4) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q5_U_MOSFET_Driver1 (Q5) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q5_U_MOSFET_Driver2 (Q5) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q5_U_MOSFET_Driver3 (Q5) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q5_U_MOSFET_Driver4 (Q5) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q6_U_MOSFET_Driver1 (Q6) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q6_U_MOSFET_Driver2 (Q6) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q6_U_MOSFET_Driver3 (Q6) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q6_U_MOSFET_Driver4 (Q6) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R10_U_MOSFET_Driver1 (R10) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R10_U_MOSFET_Driver2 (R10) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R10_U_MOSFET_Driver3 (R10) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R10_U_MOSFET_Driver4 (R10) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R11_U_MOSFET_Driver1 (R11) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R11_U_MOSFET_Driver2 (R11) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R11_U_MOSFET_Driver3 (R11) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R11_U_MOSFET_Driver4 (R11) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R12_U_MOSFET_Driver1 (R12) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R12_U_MOSFET_Driver2 (R12) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R12_U_MOSFET_Driver3 (R12) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R13_U_MOSFET_Driver4 (R13) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R14_U_MOSFET_Driver1 (R14) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R14_U_MOSFET_Driver2 (R14) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R14_U_MOSFET_Driver3 (R14) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R14_U_MOSFET_Driver4 (R14) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R15_U_MOSFET_Driver1 (R15) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R15_U_MOSFET_Driver2 (R15) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R15_U_MOSFET_Driver3 (R15) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R15_U_MOSFET_Driver4 (R15) 10k
+Added Member To Class: ClassName=U_Power Member=Component U3 TPS563209DDCR

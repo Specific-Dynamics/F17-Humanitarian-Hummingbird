@@ -1,0 +1,21 @@
+Added Component: Designator=S1(SW_DS04-254-2-02BK-SMT)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DS04-254-2-02BK-SMT/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS04-254-2-02BK-SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS04-254-2-02BK-SMT/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BOOT1 Pin=S1-1A
+Added Pin To Net: NetName=+3V3 Pin=S1-1B
+Added Pin To Net: NetName=BOOT0 Pin=S1-2A
+Added Pin To Net: NetName=+3V3 Pin=S1-2B
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C23_U_MOSFET_Driver2 (C23) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component C24_U_MOSFET_Driver4 (C24) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q1_U_MOSFET_Driver1 (Q1) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q2_U_MOSFET_Driver2 (Q2) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q2_U_MOSFET_Driver4 (Q2) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q3_U_MOSFET_Driver3 (Q3) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R12_U_MOSFET_Driver4 (R12) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R13_U_MOSFET_Driver1 (R13) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R13_U_MOSFET_Driver3 (R13) 10k
+Added Member To Class: ClassName=U_STM32 Member=Component S1 DS04-254-2-02BK-SMT
