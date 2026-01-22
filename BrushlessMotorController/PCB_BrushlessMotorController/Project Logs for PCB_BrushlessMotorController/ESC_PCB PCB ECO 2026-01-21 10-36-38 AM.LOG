@@ -1,0 +1,122 @@
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=+3V3 Pin=C8-2
+Removed Member From Class: ClassName=U_STM32 Member=C8
+Add Net: Net with name "NetC_U_MOSFET_Driver1_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_2" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver1_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver1_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver1_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver1_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver1_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver2_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver2_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver2_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver2_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver2_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver3_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver3_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver3_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver3_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver3_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver4_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver4_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver4_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver4_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver4_4" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver1_1" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver1_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver1_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver2_1" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver2_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver2_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver3_1" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver3_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver3_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver4_1" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver4_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver4_2" already exists
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C_U_MOSFET_Driver1 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C_U_MOSFET_Driver1 (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C_U_MOSFET_Driver1 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C_U_MOSFET_Driver1 (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C_U_MOSFET_Driver2 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C_U_MOSFET_Driver2 (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C_U_MOSFET_Driver2 (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C_U_MOSFET_Driver2 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C_U_MOSFET_Driver3 (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C_U_MOSFET_Driver3 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C_U_MOSFET_Driver3 (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C_U_MOSFET_Driver3 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component C_U_MOSFET_Driver4 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component C_U_MOSFET_Driver4 (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component C_U_MOSFET_Driver4 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component C_U_MOSFET_Driver4 (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q_U_MOSFET_Driver1 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q_U_MOSFET_Driver1 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q_U_MOSFET_Driver1 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q_U_MOSFET_Driver1 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q_U_MOSFET_Driver1 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q_U_MOSFET_Driver2 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q_U_MOSFET_Driver2 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q_U_MOSFET_Driver2 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q_U_MOSFET_Driver2 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q_U_MOSFET_Driver2 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q_U_MOSFET_Driver3 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q_U_MOSFET_Driver3 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q_U_MOSFET_Driver3 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q_U_MOSFET_Driver3 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q_U_MOSFET_Driver3 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q_U_MOSFET_Driver4 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q_U_MOSFET_Driver4 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q_U_MOSFET_Driver4 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q_U_MOSFET_Driver4 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q_U_MOSFET_Driver4 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R_U_MOSFET_Driver1 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R_U_MOSFET_Driver1 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R_U_MOSFET_Driver1 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R_U_MOSFET_Driver1 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R_U_MOSFET_Driver1 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R_U_MOSFET_Driver2 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R_U_MOSFET_Driver2 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R_U_MOSFET_Driver2 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R_U_MOSFET_Driver2 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R_U_MOSFET_Driver2 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R_U_MOSFET_Driver3 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R_U_MOSFET_Driver3 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R_U_MOSFET_Driver3 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R_U_MOSFET_Driver3 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R_U_MOSFET_Driver3 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R_U_MOSFET_Driver4 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R_U_MOSFET_Driver4 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R_U_MOSFET_Driver4 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R_U_MOSFET_Driver4 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R_U_MOSFET_Driver4 (R) 10k
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

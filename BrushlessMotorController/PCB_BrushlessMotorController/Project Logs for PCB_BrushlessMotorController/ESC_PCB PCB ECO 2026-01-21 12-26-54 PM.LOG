@@ -1,0 +1,721 @@
+Change Component Designator: OldDesignator=* NewDesignator=*A
+Change Component Designator: OldDesignator=C25 NewDesignator=C25A
+Change Component Designator: OldDesignator=C26 NewDesignator=C26A
+Change Component Designator: OldDesignator=C27 NewDesignator=C27A
+Change Component Designator: OldDesignator=C28 NewDesignator=C28A
+Change Component Designator: OldDesignator=C29 NewDesignator=C29A
+Change Component Designator: OldDesignator=C30 NewDesignator=C30A
+Change Component Designator: OldDesignator=C31 NewDesignator=C31A
+Change Component Designator: OldDesignator=C32 NewDesignator=C32A
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver1 NewDesignator=CA
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver1 NewDesignator=CA
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver1 NewDesignator=CA
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver1 NewDesignator=CA
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver1 NewDesignator=CA
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver2 NewDesignator=CB
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver2 NewDesignator=CB
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver2 NewDesignator=CB
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver2 NewDesignator=CB
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver2 NewDesignator=CB
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver3 NewDesignator=CC
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver3 NewDesignator=CC
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver3 NewDesignator=CC
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver3 NewDesignator=CC
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver3 NewDesignator=CC
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver4 NewDesignator=CD
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver4 NewDesignator=CD
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver4 NewDesignator=CD
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver4 NewDesignator=CD
+Change Component Designator: OldDesignator=C_U_MOSFET_Driver4 NewDesignator=CD
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver1 NewDesignator=QA
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver1 NewDesignator=QA
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver1 NewDesignator=QA
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver1 NewDesignator=QA
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver1 NewDesignator=QA
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver1 NewDesignator=QA
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver2 NewDesignator=QB
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver2 NewDesignator=QB
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver2 NewDesignator=QB
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver2 NewDesignator=QB
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver2 NewDesignator=QB
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver2 NewDesignator=QB
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver3 NewDesignator=QC
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver3 NewDesignator=QC
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver3 NewDesignator=QC
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver3 NewDesignator=QC
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver3 NewDesignator=QC
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver3 NewDesignator=QC
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver4 NewDesignator=QD
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver4 NewDesignator=QD
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver4 NewDesignator=QD
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver4 NewDesignator=QD
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver4 NewDesignator=QD
+Change Component Designator: OldDesignator=Q_U_MOSFET_Driver4 NewDesignator=QD
+Change Component Designator: OldDesignator=R16 NewDesignator=R16A
+Change Component Designator: OldDesignator=R17 NewDesignator=R17A
+Change Component Designator: OldDesignator=R18 NewDesignator=R18A
+Change Component Designator: OldDesignator=R19 NewDesignator=R19A
+Change Component Designator: OldDesignator=R20 NewDesignator=R20A
+Change Component Designator: OldDesignator=R21 NewDesignator=R21A
+Change Component Designator: OldDesignator=R22 NewDesignator=R22A
+Change Component Designator: OldDesignator=R23 NewDesignator=R23A
+Change Component Designator: OldDesignator=R24 NewDesignator=R24A
+Change Component Designator: OldDesignator=R25 NewDesignator=R25A
+Change Component Designator: OldDesignator=R26 NewDesignator=R26A
+Change Component Designator: OldDesignator=R27 NewDesignator=R27A
+Change Component Designator: OldDesignator=R28 NewDesignator=R28A
+Change Component Designator: OldDesignator=R29 NewDesignator=R29A
+Change Component Designator: OldDesignator=R30 NewDesignator=R30A
+Change Component Designator: OldDesignator=R31 NewDesignator=R31A
+Change Component Designator: OldDesignator=R32 NewDesignator=R32A
+Change Component Designator: OldDesignator=R33 NewDesignator=R33A
+Change Component Designator: OldDesignator=R34 NewDesignator=R34A
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver1 NewDesignator=RA
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver1 NewDesignator=RA
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver1 NewDesignator=RA
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver1 NewDesignator=RA
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver1 NewDesignator=RA
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver1 NewDesignator=RA
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver2 NewDesignator=RB
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver2 NewDesignator=RB
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver2 NewDesignator=RB
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver2 NewDesignator=RB
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver2 NewDesignator=RB
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver2 NewDesignator=RB
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver3 NewDesignator=RC
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver3 NewDesignator=RC
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver3 NewDesignator=RC
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver3 NewDesignator=RC
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver3 NewDesignator=RC
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver3 NewDesignator=RC
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver4 NewDesignator=RD
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver4 NewDesignator=RD
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver4 NewDesignator=RD
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver4 NewDesignator=RD
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver4 NewDesignator=RD
+Change Component Designator: OldDesignator=R_U_MOSFET_Driver4 NewDesignator=RD
+Change Component Designator: OldDesignator=U_U_MOSFET_Driver1 NewDesignator=UA
+Change Component Designator: OldDesignator=U_U_MOSFET_Driver2 NewDesignator=UB
+Change Component Designator: OldDesignator=U_U_MOSFET_Driver3 NewDesignator=UC
+Change Component Designator: OldDesignator=U_U_MOSFET_Driver4 NewDesignator=UD
+Added Component: Designator=*B(MCP6499T-E/SL)
+Added Component: Designator=*C(MCP6499T-E/SL)
+Added Component: Designator=*D(MCP6499T-E/SL)
+Added Component: Designator=C25B(CAP 0603)
+Added Component: Designator=C25C(CAP 0603)
+Added Component: Designator=C25D(CAP 0603)
+Added Component: Designator=C26B(CAP 0603)
+Added Component: Designator=C26C(CAP 0603)
+Added Component: Designator=C26D(CAP 0603)
+Added Component: Designator=C27B(CAP 0603)
+Added Component: Designator=C27C(CAP 0603)
+Added Component: Designator=C27D(CAP 0603)
+Added Component: Designator=C28B(CAP 0603)
+Added Component: Designator=C28C(CAP 0603)
+Added Component: Designator=C28D(CAP 0603)
+Added Component: Designator=C29B(CAP 0603)
+Added Component: Designator=C29C(CAP 0603)
+Added Component: Designator=C29D(CAP 0603)
+Added Component: Designator=C30B(CAP 0603)
+Added Component: Designator=C30C(CAP 0603)
+Added Component: Designator=C30D(CAP 0603)
+Added Component: Designator=C31B(CAP 0603)
+Added Component: Designator=C31C(CAP 0603)
+Added Component: Designator=C31D(CAP 0603)
+Added Component: Designator=C32B(CAP 0603)
+Added Component: Designator=C32C(CAP 0603)
+Added Component: Designator=C32D(CAP 0603)
+Added Component: Designator=R16B(RES 0603)
+Added Component: Designator=R16C(RES 0603)
+Added Component: Designator=R16D(RES 0603)
+Added Component: Designator=R17B(RES 0603)
+Added Component: Designator=R17C(RES 0603)
+Added Component: Designator=R17D(RES 0603)
+Added Component: Designator=R18B(RES 0603)
+Added Component: Designator=R18C(RES 0603)
+Added Component: Designator=R18D(RES 0603)
+Added Component: Designator=R19B(RES 0603)
+Added Component: Designator=R19C(RES 0603)
+Added Component: Designator=R19D(RES 0603)
+Added Component: Designator=R20B(RES 0603)
+Added Component: Designator=R20C(RES 0603)
+Added Component: Designator=R20D(RES 0603)
+Added Component: Designator=R21B(RES 0603)
+Added Component: Designator=R21C(RES 0603)
+Added Component: Designator=R21D(RES 0603)
+Added Component: Designator=R22B(RES 0603)
+Added Component: Designator=R22C(RES 0603)
+Added Component: Designator=R22D(RES 0603)
+Added Component: Designator=R23B(RES 0603)
+Added Component: Designator=R23C(RES 0603)
+Added Component: Designator=R23D(RES 0603)
+Added Component: Designator=R24B(RES 0603)
+Added Component: Designator=R24C(RES 0603)
+Added Component: Designator=R24D(RES 0603)
+Added Component: Designator=R25B(RES 0603)
+Added Component: Designator=R25C(RES 0603)
+Added Component: Designator=R25D(RES 0603)
+Added Component: Designator=R26B(RES 0603)
+Added Component: Designator=R26C(RES 0603)
+Added Component: Designator=R26D(RES 0603)
+Added Component: Designator=R27B(RES 0603)
+Added Component: Designator=R27C(RES 0603)
+Added Component: Designator=R27D(RES 0603)
+Added Component: Designator=R28B(RES 0603)
+Added Component: Designator=R28C(RES 0603)
+Added Component: Designator=R28D(RES 0603)
+Added Component: Designator=R29B(RES 0603)
+Added Component: Designator=R29C(RES 0603)
+Added Component: Designator=R29D(RES 0603)
+Added Component: Designator=R30B(RES 0603)
+Added Component: Designator=R30C(RES 0603)
+Added Component: Designator=R30D(RES 0603)
+Added Component: Designator=R31B(RES 0603)
+Added Component: Designator=R31C(RES 0603)
+Added Component: Designator=R31D(RES 0603)
+Added Component: Designator=R32B(RES 0603)
+Added Component: Designator=R32C(RES 0603)
+Added Component: Designator=R32D(RES 0603)
+Added Component: Designator=R33B(YC164-JR-072KL)
+Added Component: Designator=R33C(YC164-JR-072KL)
+Added Component: Designator=R33D(YC164-JR-072KL)
+Added Component: Designator=R34B(YC164-JR-072KL)
+Added Component: Designator=R34C(YC164-JR-072KL)
+Added Component: Designator=R34D(YC164-JR-072KL)
+Added Pin To Net: NetName=+3V3 Pin=*B-4
+Added Pin To Net: NetName=GND Pin=*B-11
+Added Pin To Net: NetName=+3V3 Pin=*C-4
+Added Pin To Net: NetName=GND Pin=*C-11
+Added Pin To Net: NetName=+3V3 Pin=*D-4
+Added Pin To Net: NetName=GND Pin=*D-11
+Added Pin To Net: NetName=GND Pin=C28B-1
+Added Pin To Net: NetName=GND Pin=C28C-1
+Added Pin To Net: NetName=GND Pin=C28D-1
+Added Pin To Net: NetName=GND Pin=C29B-1
+Added Pin To Net: NetName=GND Pin=C29C-1
+Added Pin To Net: NetName=GND Pin=C29D-1
+Added Pin To Net: NetName=GND Pin=C30B-1
+Added Pin To Net: NetName=GND Pin=C30C-1
+Added Pin To Net: NetName=GND Pin=C30D-1
+Added Pin To Net: NetName=GND Pin=C31B-1
+Added Pin To Net: NetName=+3V3 Pin=C31B-2
+Added Pin To Net: NetName=GND Pin=C31C-1
+Added Pin To Net: NetName=+3V3 Pin=C31C-2
+Added Pin To Net: NetName=GND Pin=C31D-1
+Added Pin To Net: NetName=+3V3 Pin=C31D-2
+Added Pin To Net: NetName=GND Pin=C32B-1
+Added Pin To Net: NetName=GND Pin=C32C-1
+Added Pin To Net: NetName=GND Pin=C32D-1
+Added Pin To Net: NetName=+3V3 Pin=R16B-2
+Added Pin To Net: NetName=+3V3 Pin=R16C-2
+Added Pin To Net: NetName=+3V3 Pin=R16D-2
+Added Pin To Net: NetName=GND Pin=R29B-1
+Added Pin To Net: NetName=GND Pin=R29C-1
+Added Pin To Net: NetName=GND Pin=R29D-1
+Added Pin To Net: NetName=GND Pin=R30B-1
+Added Pin To Net: NetName=GND Pin=R30C-1
+Added Pin To Net: NetName=GND Pin=R30D-1
+Added Pin To Net: NetName=GND Pin=R31B-1
+Added Pin To Net: NetName=GND Pin=R31C-1
+Added Pin To Net: NetName=GND Pin=R31D-1
+Added Pin To Net: NetName=GND Pin=R32B-1
+Added Pin To Net: NetName=GND Pin=R32C-1
+Added Pin To Net: NetName=GND Pin=R32D-1
+Change Net Name : Old Net Name=local_3V3_U_MOSFET_Driver1 New Net Name=local_3V3A
+Change Net Name : Old Net Name=local_3V3_U_MOSFET_Driver2 New Net Name=local_3V3B
+Change Net Name : Old Net Name=local_3V3_U_MOSFET_Driver3 New Net Name=local_3V3C
+Change Net Name : Old Net Name=local_3V3_U_MOSFET_Driver4 New Net Name=local_3V3D
+Change Net Name : Old Net Name=Net*_1 New Net Name=Net*A_1
+Change Net Name : Old Net Name=Net*_3 New Net Name=Net*A_3
+Change Net Name : Old Net Name=Net*_5 New Net Name=Net*A_5
+Change Net Name : Old Net Name=Net*_6 New Net Name=Net*A_6
+Change Net Name : Old Net Name=Net*_8 New Net Name=Net*A_8
+Change Net Name : Old Net Name=Net*_10 New Net Name=Net*A_10
+Change Net Name : Old Net Name=Net*_12 New Net Name=Net*A_12
+Change Net Name : Old Net Name=Net*_13 New Net Name=Net*A_13
+Change Net Name : Old Net Name=Net*_14 New Net Name=Net*A_14
+Change Net Name : Old Net Name=NetC25_1 New Net Name=NetC25A_1
+Change Net Name : Old Net Name=NetC26_1 New Net Name=NetC26A_1
+Change Net Name : Old Net Name=NetC27_1 New Net Name=NetC27A_1
+Change Net Name : Old Net Name=NetC28_2 New Net Name=NetC28A_2
+Change Net Name : Old Net Name=NetC_U_MOSFET_Driver1_1 New Net Name=NetCA_1
+Change Net Name : Old Net Name=NetC_U_MOSFET_Driver1_2 New Net Name=NetCA_2
+Change Net Name : Old Net Name=NetC_U_MOSFET_Driver2_1 New Net Name=NetCB_1
+Change Net Name : Old Net Name=NetC_U_MOSFET_Driver2_2 New Net Name=NetCB_2
+Change Net Name : Old Net Name=NetC_U_MOSFET_Driver3_1 New Net Name=NetCC_1
+Change Net Name : Old Net Name=NetC_U_MOSFET_Driver3_2 New Net Name=NetCC_2
+Change Net Name : Old Net Name=NetC_U_MOSFET_Driver4_1 New Net Name=NetCD_1
+Change Net Name : Old Net Name=NetC_U_MOSFET_Driver4_2 New Net Name=NetCD_2
+Change Net Name : Old Net Name=NetQ_U_MOSFET_Driver1_4 New Net Name=NetQA_4
+Change Net Name : Old Net Name=NetQ_U_MOSFET_Driver1_5 New Net Name=NetQA_5
+Change Net Name : Old Net Name=NetQ_U_MOSFET_Driver2_4 New Net Name=NetQB_4
+Change Net Name : Old Net Name=NetQ_U_MOSFET_Driver2_5 New Net Name=NetQB_5
+Change Net Name : Old Net Name=NetQ_U_MOSFET_Driver3_4 New Net Name=NetQC_4
+Change Net Name : Old Net Name=NetQ_U_MOSFET_Driver3_5 New Net Name=NetQC_5
+Change Net Name : Old Net Name=NetQ_U_MOSFET_Driver4_4 New Net Name=NetQD_4
+Change Net Name : Old Net Name=NetQ_U_MOSFET_Driver4_5 New Net Name=NetQD_5
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR16A_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR17A_1
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR17A_2
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR18A_1
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR18A_2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR19A_1
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR19A_2
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR20A_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR21A_1
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR22A_1
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR23A_1
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR25A_1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR26A_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR27A_1
+Change Net Name : Old Net Name=NetR28_1 New Net Name=NetR28A_1
+Change Net Name : Old Net Name=NetR33_5 New Net Name=NetR33A_5
+Change Net Name : Old Net Name=NetR_U_MOSFET_Driver1_1 New Net Name=NetRA_1
+Change Net Name : Old Net Name=NetR_U_MOSFET_Driver1_2 New Net Name=NetRA_2
+Change Net Name : Old Net Name=NetR_U_MOSFET_Driver2_1 New Net Name=NetRB_1
+Change Net Name : Old Net Name=NetR_U_MOSFET_Driver2_2 New Net Name=NetRB_2
+Change Net Name : Old Net Name=NetR_U_MOSFET_Driver3_1 New Net Name=NetRC_1
+Change Net Name : Old Net Name=NetR_U_MOSFET_Driver3_2 New Net Name=NetRC_2
+Change Net Name : Old Net Name=NetR_U_MOSFET_Driver4_1 New Net Name=NetRD_1
+Change Net Name : Old Net Name=NetR_U_MOSFET_Driver4_2 New Net Name=NetRD_2
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver1_2 New Net Name=NetUA_2
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver1_27 New Net Name=NetUA_27
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver1_28 New Net Name=NetUA_28
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver1_29 New Net Name=NetUA_29
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver1_30 New Net Name=NetUA_30
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver1_31 New Net Name=NetUA_31
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver1_32 New Net Name=NetUA_32
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver1_34 New Net Name=NetUA_34
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver2_2 New Net Name=NetUB_2
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver2_27 New Net Name=NetUB_27
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver2_28 New Net Name=NetUB_28
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver2_29 New Net Name=NetUB_29
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver2_30 New Net Name=NetUB_30
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver2_31 New Net Name=NetUB_31
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver2_32 New Net Name=NetUB_32
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver2_34 New Net Name=NetUB_34
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver3_2 New Net Name=NetUC_2
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver3_27 New Net Name=NetUC_27
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver3_28 New Net Name=NetUC_28
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver3_29 New Net Name=NetUC_29
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver3_30 New Net Name=NetUC_30
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver3_31 New Net Name=NetUC_31
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver3_32 New Net Name=NetUC_32
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver3_34 New Net Name=NetUC_34
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver4_2 New Net Name=NetUD_2
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver4_27 New Net Name=NetUD_27
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver4_28 New Net Name=NetUD_28
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver4_29 New Net Name=NetUD_29
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver4_30 New Net Name=NetUD_30
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver4_31 New Net Name=NetUD_31
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver4_32 New Net Name=NetUD_32
+Change Net Name : Old Net Name=NetU_U_MOSFET_Driver4_34 New Net Name=NetUD_34
+Added Pin To Net: NetName=Net*B_1 Pin=*B-1
+Added Pin To Net: NetName=Net*B_1 Pin=*B-2
+Added Pin To Net: NetName=Net*B_1 Pin=C25B-2
+Added Net: Name=Net*B_1
+Added Pin To Net: NetName=Net*B_3 Pin=*B-3
+Added Pin To Net: NetName=Net*B_3 Pin=C32B-2
+Added Pin To Net: NetName=Net*B_3 Pin=R34B-8
+Added Net: Name=Net*B_3
+Added Pin To Net: NetName=Net*B_5 Pin=*B-5
+Added Pin To Net: NetName=Net*B_5 Pin=C30B-2
+Added Pin To Net: NetName=Net*B_5 Pin=R34B-7
+Added Net: Name=Net*B_5
+Added Pin To Net: NetName=Net*B_6 Pin=*B-6
+Added Pin To Net: NetName=Net*B_6 Pin=*B-7
+Added Pin To Net: NetName=Net*B_6 Pin=C26B-2
+Added Net: Name=Net*B_6
+Added Pin To Net: NetName=Net*B_8 Pin=*B-8
+Added Pin To Net: NetName=Net*B_8 Pin=*B-9
+Added Pin To Net: NetName=Net*B_8 Pin=C27B-2
+Added Net: Name=Net*B_8
+Added Pin To Net: NetName=Net*B_10 Pin=*B-10
+Added Pin To Net: NetName=Net*B_10 Pin=C29B-2
+Added Pin To Net: NetName=Net*B_10 Pin=R34B-6
+Added Net: Name=Net*B_10
+Added Pin To Net: NetName=Net*B_12 Pin=*B-12
+Added Net: Name=Net*B_12
+Added Pin To Net: NetName=Net*B_13 Pin=*B-13
+Added Pin To Net: NetName=Net*B_13 Pin=R34B-5
+Added Net: Name=Net*B_13
+Added Pin To Net: NetName=Net*B_14 Pin=*B-14
+Added Pin To Net: NetName=Net*B_14 Pin=R24B-2
+Added Net: Name=Net*B_14
+Added Pin To Net: NetName=Net*C_1 Pin=*C-1
+Added Pin To Net: NetName=Net*C_1 Pin=*C-2
+Added Pin To Net: NetName=Net*C_1 Pin=C25C-2
+Added Net: Name=Net*C_1
+Added Pin To Net: NetName=Net*C_3 Pin=*C-3
+Added Pin To Net: NetName=Net*C_3 Pin=C32C-2
+Added Pin To Net: NetName=Net*C_3 Pin=R34C-8
+Added Net: Name=Net*C_3
+Added Pin To Net: NetName=Net*C_5 Pin=*C-5
+Added Pin To Net: NetName=Net*C_5 Pin=C30C-2
+Added Pin To Net: NetName=Net*C_5 Pin=R34C-7
+Added Net: Name=Net*C_5
+Added Pin To Net: NetName=Net*C_6 Pin=*C-6
+Added Pin To Net: NetName=Net*C_6 Pin=*C-7
+Added Pin To Net: NetName=Net*C_6 Pin=C26C-2
+Added Net: Name=Net*C_6
+Added Pin To Net: NetName=Net*C_8 Pin=*C-8
+Added Pin To Net: NetName=Net*C_8 Pin=*C-9
+Added Pin To Net: NetName=Net*C_8 Pin=C27C-2
+Added Net: Name=Net*C_8
+Added Pin To Net: NetName=Net*C_10 Pin=*C-10
+Added Pin To Net: NetName=Net*C_10 Pin=C29C-2
+Added Pin To Net: NetName=Net*C_10 Pin=R34C-6
+Added Net: Name=Net*C_10
+Added Pin To Net: NetName=Net*C_12 Pin=*C-12
+Added Net: Name=Net*C_12
+Added Pin To Net: NetName=Net*C_13 Pin=*C-13
+Added Pin To Net: NetName=Net*C_13 Pin=R34C-5
+Added Net: Name=Net*C_13
+Added Pin To Net: NetName=Net*C_14 Pin=*C-14
+Added Pin To Net: NetName=Net*C_14 Pin=R24C-2
+Added Net: Name=Net*C_14
+Added Pin To Net: NetName=Net*D_1 Pin=*D-1
+Added Pin To Net: NetName=Net*D_1 Pin=*D-2
+Added Pin To Net: NetName=Net*D_1 Pin=C25D-2
+Added Net: Name=Net*D_1
+Added Pin To Net: NetName=Net*D_3 Pin=*D-3
+Added Pin To Net: NetName=Net*D_3 Pin=C32D-2
+Added Pin To Net: NetName=Net*D_3 Pin=R34D-8
+Added Net: Name=Net*D_3
+Added Pin To Net: NetName=Net*D_5 Pin=*D-5
+Added Pin To Net: NetName=Net*D_5 Pin=C30D-2
+Added Pin To Net: NetName=Net*D_5 Pin=R34D-7
+Added Net: Name=Net*D_5
+Added Pin To Net: NetName=Net*D_6 Pin=*D-6
+Added Pin To Net: NetName=Net*D_6 Pin=*D-7
+Added Pin To Net: NetName=Net*D_6 Pin=C26D-2
+Added Net: Name=Net*D_6
+Added Pin To Net: NetName=Net*D_8 Pin=*D-8
+Added Pin To Net: NetName=Net*D_8 Pin=*D-9
+Added Pin To Net: NetName=Net*D_8 Pin=C27D-2
+Added Net: Name=Net*D_8
+Added Pin To Net: NetName=Net*D_10 Pin=*D-10
+Added Pin To Net: NetName=Net*D_10 Pin=C29D-2
+Added Pin To Net: NetName=Net*D_10 Pin=R34D-6
+Added Net: Name=Net*D_10
+Added Pin To Net: NetName=Net*D_12 Pin=*D-12
+Added Net: Name=Net*D_12
+Added Pin To Net: NetName=Net*D_13 Pin=*D-13
+Added Pin To Net: NetName=Net*D_13 Pin=R34D-5
+Added Net: Name=Net*D_13
+Added Pin To Net: NetName=Net*D_14 Pin=*D-14
+Added Pin To Net: NetName=Net*D_14 Pin=R24D-2
+Added Net: Name=Net*D_14
+Added Pin To Net: NetName=NetC25B_1 Pin=C25B-1
+Added Pin To Net: NetName=NetC25B_1 Pin=R33B-8
+Added Pin To Net: NetName=NetC25B_1 Pin=R34B-1
+Added Net: Name=NetC25B_1
+Added Pin To Net: NetName=NetC25C_1 Pin=C25C-1
+Added Pin To Net: NetName=NetC25C_1 Pin=R33C-8
+Added Pin To Net: NetName=NetC25C_1 Pin=R34C-1
+Added Net: Name=NetC25C_1
+Added Pin To Net: NetName=NetC25D_1 Pin=C25D-1
+Added Pin To Net: NetName=NetC25D_1 Pin=R33D-8
+Added Pin To Net: NetName=NetC25D_1 Pin=R34D-1
+Added Net: Name=NetC25D_1
+Added Pin To Net: NetName=NetC26B_1 Pin=C26B-1
+Added Pin To Net: NetName=NetC26B_1 Pin=R33B-7
+Added Pin To Net: NetName=NetC26B_1 Pin=R34B-2
+Added Net: Name=NetC26B_1
+Added Pin To Net: NetName=NetC26C_1 Pin=C26C-1
+Added Pin To Net: NetName=NetC26C_1 Pin=R33C-7
+Added Pin To Net: NetName=NetC26C_1 Pin=R34C-2
+Added Net: Name=NetC26C_1
+Added Pin To Net: NetName=NetC26D_1 Pin=C26D-1
+Added Pin To Net: NetName=NetC26D_1 Pin=R33D-7
+Added Pin To Net: NetName=NetC26D_1 Pin=R34D-2
+Added Net: Name=NetC26D_1
+Added Pin To Net: NetName=NetC27B_1 Pin=C27B-1
+Added Pin To Net: NetName=NetC27B_1 Pin=R33B-6
+Added Pin To Net: NetName=NetC27B_1 Pin=R34B-3
+Added Net: Name=NetC27B_1
+Added Pin To Net: NetName=NetC27C_1 Pin=C27C-1
+Added Pin To Net: NetName=NetC27C_1 Pin=R33C-6
+Added Pin To Net: NetName=NetC27C_1 Pin=R34C-3
+Added Net: Name=NetC27C_1
+Added Pin To Net: NetName=NetC27D_1 Pin=C27D-1
+Added Pin To Net: NetName=NetC27D_1 Pin=R33D-6
+Added Pin To Net: NetName=NetC27D_1 Pin=R34D-3
+Added Net: Name=NetC27D_1
+Added Pin To Net: NetName=NetC28B_2 Pin=C28B-2
+Added Pin To Net: NetName=NetC28B_2 Pin=R24B-1
+Added Net: Name=NetC28B_2
+Added Pin To Net: NetName=NetC28C_2 Pin=C28C-2
+Added Pin To Net: NetName=NetC28C_2 Pin=R24C-1
+Added Net: Name=NetC28C_2
+Added Pin To Net: NetName=NetC28D_2 Pin=C28D-2
+Added Pin To Net: NetName=NetC28D_2 Pin=R24D-1
+Added Net: Name=NetC28D_2
+Add Net: Net with name "NetCA_1" already exists
+Add Net: Net with name "NetCA_1" already exists
+Add Net: Net with name "NetCA_1" already exists
+Add Net: Net with name "NetCA_1" already exists
+Add Net: Net with name "NetCA_2" already exists
+Add Net: Net with name "NetCA_2" already exists
+Add Net: Net with name "NetCA_2" already exists
+Add Net: Net with name "NetCB_1" already exists
+Add Net: Net with name "NetCB_1" already exists
+Add Net: Net with name "NetCB_1" already exists
+Add Net: Net with name "NetCB_1" already exists
+Add Net: Net with name "NetCB_2" already exists
+Add Net: Net with name "NetCB_2" already exists
+Add Net: Net with name "NetCB_2" already exists
+Add Net: Net with name "NetCC_1" already exists
+Add Net: Net with name "NetCC_1" already exists
+Add Net: Net with name "NetCC_1" already exists
+Add Net: Net with name "NetCC_1" already exists
+Add Net: Net with name "NetCC_2" already exists
+Add Net: Net with name "NetCC_2" already exists
+Add Net: Net with name "NetCC_2" already exists
+Add Net: Net with name "NetCD_1" already exists
+Add Net: Net with name "NetCD_1" already exists
+Add Net: Net with name "NetCD_1" already exists
+Add Net: Net with name "NetCD_1" already exists
+Add Net: Net with name "NetCD_2" already exists
+Add Net: Net with name "NetCD_2" already exists
+Add Net: Net with name "NetCD_2" already exists
+Add Net: Net with name "NetQA_4" already exists
+Add Net: Net with name "NetQA_4" already exists
+Add Net: Net with name "NetQA_4" already exists
+Add Net: Net with name "NetQA_4" already exists
+Add Net: Net with name "NetQA_4" already exists
+Add Net: Net with name "NetQB_4" already exists
+Add Net: Net with name "NetQB_4" already exists
+Add Net: Net with name "NetQB_4" already exists
+Add Net: Net with name "NetQB_4" already exists
+Add Net: Net with name "NetQB_4" already exists
+Add Net: Net with name "NetQC_4" already exists
+Add Net: Net with name "NetQC_4" already exists
+Add Net: Net with name "NetQC_4" already exists
+Add Net: Net with name "NetQC_4" already exists
+Add Net: Net with name "NetQC_4" already exists
+Add Net: Net with name "NetQD_4" already exists
+Add Net: Net with name "NetQD_4" already exists
+Add Net: Net with name "NetQD_4" already exists
+Add Net: Net with name "NetQD_4" already exists
+Add Net: Net with name "NetQD_4" already exists
+Added Pin To Net: NetName=NetR16B_1 Pin=R16B-1
+Added Pin To Net: NetName=NetR16B_1 Pin=R20B-2
+Added Net: Name=NetR16B_1
+Added Pin To Net: NetName=NetR16C_1 Pin=R16C-1
+Added Pin To Net: NetName=NetR16C_1 Pin=R20C-2
+Added Net: Name=NetR16C_1
+Added Pin To Net: NetName=NetR16D_1 Pin=R16D-1
+Added Pin To Net: NetName=NetR16D_1 Pin=R20D-2
+Added Net: Name=NetR16D_1
+Added Pin To Net: NetName=NetR17B_1 Pin=R17B-1
+Added Pin To Net: NetName=NetR17B_1 Pin=R21B-2
+Added Net: Name=NetR17B_1
+Added Pin To Net: NetName=NetR17B_2 Pin=R17B-2
+Added Net: Name=NetR17B_2
+Added Pin To Net: NetName=NetR17C_1 Pin=R17C-1
+Added Pin To Net: NetName=NetR17C_1 Pin=R21C-2
+Added Net: Name=NetR17C_1
+Added Pin To Net: NetName=NetR17C_2 Pin=R17C-2
+Added Net: Name=NetR17C_2
+Added Pin To Net: NetName=NetR17D_1 Pin=R17D-1
+Added Pin To Net: NetName=NetR17D_1 Pin=R21D-2
+Added Net: Name=NetR17D_1
+Added Pin To Net: NetName=NetR17D_2 Pin=R17D-2
+Added Net: Name=NetR17D_2
+Added Pin To Net: NetName=NetR18B_1 Pin=R18B-1
+Added Pin To Net: NetName=NetR18B_1 Pin=R22B-2
+Added Net: Name=NetR18B_1
+Added Pin To Net: NetName=NetR18B_2 Pin=R18B-2
+Added Net: Name=NetR18B_2
+Added Pin To Net: NetName=NetR18C_1 Pin=R18C-1
+Added Pin To Net: NetName=NetR18C_1 Pin=R22C-2
+Added Net: Name=NetR18C_1
+Added Pin To Net: NetName=NetR18C_2 Pin=R18C-2
+Added Net: Name=NetR18C_2
+Added Pin To Net: NetName=NetR18D_1 Pin=R18D-1
+Added Pin To Net: NetName=NetR18D_1 Pin=R22D-2
+Added Net: Name=NetR18D_1
+Added Pin To Net: NetName=NetR18D_2 Pin=R18D-2
+Added Net: Name=NetR18D_2
+Added Pin To Net: NetName=NetR19B_1 Pin=R19B-1
+Added Pin To Net: NetName=NetR19B_1 Pin=R23B-2
+Added Net: Name=NetR19B_1
+Added Pin To Net: NetName=NetR19B_2 Pin=R19B-2
+Added Net: Name=NetR19B_2
+Added Pin To Net: NetName=NetR19C_1 Pin=R19C-1
+Added Pin To Net: NetName=NetR19C_1 Pin=R23C-2
+Added Net: Name=NetR19C_1
+Added Pin To Net: NetName=NetR19C_2 Pin=R19C-2
+Added Net: Name=NetR19C_2
+Added Pin To Net: NetName=NetR19D_1 Pin=R19D-1
+Added Pin To Net: NetName=NetR19D_1 Pin=R23D-2
+Added Net: Name=NetR19D_1
+Added Pin To Net: NetName=NetR19D_2 Pin=R19D-2
+Added Net: Name=NetR19D_2
+Added Pin To Net: NetName=NetR20B_1 Pin=R20B-1
+Added Pin To Net: NetName=NetR20B_1 Pin=R25B-2
+Added Pin To Net: NetName=NetR20B_1 Pin=R33B-4
+Added Net: Name=NetR20B_1
+Added Pin To Net: NetName=NetR20C_1 Pin=R20C-1
+Added Pin To Net: NetName=NetR20C_1 Pin=R25C-2
+Added Pin To Net: NetName=NetR20C_1 Pin=R33C-4
+Added Net: Name=NetR20C_1
+Added Pin To Net: NetName=NetR20D_1 Pin=R20D-1
+Added Pin To Net: NetName=NetR20D_1 Pin=R25D-2
+Added Pin To Net: NetName=NetR20D_1 Pin=R33D-4
+Added Net: Name=NetR20D_1
+Added Pin To Net: NetName=NetR21B_1 Pin=R21B-1
+Added Pin To Net: NetName=NetR21B_1 Pin=R26B-2
+Added Pin To Net: NetName=NetR21B_1 Pin=R33B-3
+Added Net: Name=NetR21B_1
+Added Pin To Net: NetName=NetR21C_1 Pin=R21C-1
+Added Pin To Net: NetName=NetR21C_1 Pin=R26C-2
+Added Pin To Net: NetName=NetR21C_1 Pin=R33C-3
+Added Net: Name=NetR21C_1
+Added Pin To Net: NetName=NetR21D_1 Pin=R21D-1
+Added Pin To Net: NetName=NetR21D_1 Pin=R26D-2
+Added Pin To Net: NetName=NetR21D_1 Pin=R33D-3
+Added Net: Name=NetR21D_1
+Added Pin To Net: NetName=NetR22B_1 Pin=R22B-1
+Added Pin To Net: NetName=NetR22B_1 Pin=R27B-2
+Added Pin To Net: NetName=NetR22B_1 Pin=R33B-2
+Added Net: Name=NetR22B_1
+Added Pin To Net: NetName=NetR22C_1 Pin=R22C-1
+Added Pin To Net: NetName=NetR22C_1 Pin=R27C-2
+Added Pin To Net: NetName=NetR22C_1 Pin=R33C-2
+Added Net: Name=NetR22C_1
+Added Pin To Net: NetName=NetR22D_1 Pin=R22D-1
+Added Pin To Net: NetName=NetR22D_1 Pin=R27D-2
+Added Pin To Net: NetName=NetR22D_1 Pin=R33D-2
+Added Net: Name=NetR22D_1
+Added Pin To Net: NetName=NetR23B_1 Pin=R23B-1
+Added Pin To Net: NetName=NetR23B_1 Pin=R28B-2
+Added Pin To Net: NetName=NetR23B_1 Pin=R33B-1
+Added Net: Name=NetR23B_1
+Added Pin To Net: NetName=NetR23C_1 Pin=R23C-1
+Added Pin To Net: NetName=NetR23C_1 Pin=R28C-2
+Added Pin To Net: NetName=NetR23C_1 Pin=R33C-1
+Added Net: Name=NetR23C_1
+Added Pin To Net: NetName=NetR23D_1 Pin=R23D-1
+Added Pin To Net: NetName=NetR23D_1 Pin=R28D-2
+Added Pin To Net: NetName=NetR23D_1 Pin=R33D-1
+Added Net: Name=NetR23D_1
+Added Pin To Net: NetName=NetR25B_1 Pin=R25B-1
+Added Pin To Net: NetName=NetR25B_1 Pin=R29B-2
+Added Net: Name=NetR25B_1
+Added Pin To Net: NetName=NetR25C_1 Pin=R25C-1
+Added Pin To Net: NetName=NetR25C_1 Pin=R29C-2
+Added Net: Name=NetR25C_1
+Added Pin To Net: NetName=NetR25D_1 Pin=R25D-1
+Added Pin To Net: NetName=NetR25D_1 Pin=R29D-2
+Added Net: Name=NetR25D_1
+Added Pin To Net: NetName=NetR26B_1 Pin=R26B-1
+Added Pin To Net: NetName=NetR26B_1 Pin=R30B-2
+Added Net: Name=NetR26B_1
+Added Pin To Net: NetName=NetR26C_1 Pin=R26C-1
+Added Pin To Net: NetName=NetR26C_1 Pin=R30C-2
+Added Net: Name=NetR26C_1
+Added Pin To Net: NetName=NetR26D_1 Pin=R26D-1
+Added Pin To Net: NetName=NetR26D_1 Pin=R30D-2
+Added Net: Name=NetR26D_1
+Added Pin To Net: NetName=NetR27B_1 Pin=R27B-1
+Added Pin To Net: NetName=NetR27B_1 Pin=R31B-2
+Added Net: Name=NetR27B_1
+Added Pin To Net: NetName=NetR27C_1 Pin=R27C-1
+Added Pin To Net: NetName=NetR27C_1 Pin=R31C-2
+Added Net: Name=NetR27C_1
+Added Pin To Net: NetName=NetR27D_1 Pin=R27D-1
+Added Pin To Net: NetName=NetR27D_1 Pin=R31D-2
+Added Net: Name=NetR27D_1
+Added Pin To Net: NetName=NetR28B_1 Pin=R28B-1
+Added Pin To Net: NetName=NetR28B_1 Pin=R32B-2
+Added Net: Name=NetR28B_1
+Added Pin To Net: NetName=NetR28C_1 Pin=R28C-1
+Added Pin To Net: NetName=NetR28C_1 Pin=R32C-2
+Added Net: Name=NetR28C_1
+Added Pin To Net: NetName=NetR28D_1 Pin=R28D-1
+Added Pin To Net: NetName=NetR28D_1 Pin=R32D-2
+Added Net: Name=NetR28D_1
+Added Pin To Net: NetName=NetR33B_5 Pin=R33B-5
+Added Pin To Net: NetName=NetR33B_5 Pin=R34B-4
+Added Net: Name=NetR33B_5
+Added Pin To Net: NetName=NetR33C_5 Pin=R33C-5
+Added Pin To Net: NetName=NetR33C_5 Pin=R34C-4
+Added Net: Name=NetR33C_5
+Added Pin To Net: NetName=NetR33D_5 Pin=R33D-5
+Added Pin To Net: NetName=NetR33D_5 Pin=R34D-4
+Added Net: Name=NetR33D_5
+Add Net: Net with name "NetRA_1" already exists
+Add Net: Net with name "NetRA_2" already exists
+Add Net: Net with name "NetRA_2" already exists
+Add Net: Net with name "NetRB_1" already exists
+Add Net: Net with name "NetRB_2" already exists
+Add Net: Net with name "NetRB_2" already exists
+Add Net: Net with name "NetRC_1" already exists
+Add Net: Net with name "NetRC_2" already exists
+Add Net: Net with name "NetRC_2" already exists
+Add Net: Net with name "NetRD_1" already exists
+Add Net: Net with name "NetRD_2" already exists
+Add Net: Net with name "NetRD_2" already exists
+Change Class Name : Old Net Name=U_Back_EMF_Detection New Net Name=U_Back_EMF_Detection1
+Added Class: Name=U_Back_EMF_Detection2
+Added Class: Name=U_Back_EMF_Detection3
+Added Class: Name=U_Back_EMF_Detection4
+Added Class: Name=Back_EMF_Detection
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component CA (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component CA (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component CA (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component CA (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component CB (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component CB (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component CB (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component CB (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component CC (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component CC (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component CC (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component CC (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component CD (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component CD (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component CD (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component CD (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component QA (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component QA (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component QA (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component QA (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component QA (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component QB (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component QB (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component QB (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component QB (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component QB (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component QC (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component QC (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component QC (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component QC (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component QC (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component QD (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component QD (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component QD (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component QD (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component QD (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component RA (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component RA (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component RA (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component RA (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component RA (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component RB (R) 0.5m
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component RB (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component RB (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component RB (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component RB (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component RC (R) 0.5m
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component RC (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component RC (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component RC (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component RC (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component RD (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component RD (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component RD (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component RD (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component RD (R) 10k

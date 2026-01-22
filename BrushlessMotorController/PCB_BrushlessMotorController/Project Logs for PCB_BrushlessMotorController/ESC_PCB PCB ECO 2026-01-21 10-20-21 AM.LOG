@@ -1,0 +1,204 @@
+Change Component Footprint: Designator=J1 Old Footprint=23117661 New Footprint=CON Battery XT30PW-M
+Change component parameters: Designator = "J1" ("J1"); Footprint = "23117661"; UniqueID = "\PDLXRDQQ\KGWCPKDM" ("\PDLXRDQQ\KGWCPKDM")
+Added Component: Designator=U1(SOT-23-6 BUCK)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Voltage Regulators - Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://sigma.octopart.com:443/180581133/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://sigma.octopart.com:443/180581133/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://octopart.com:443/opatz8j6/c1?t=Cv-Lo8ASJusiJfElOe7z2ljxGeXtJ8lqLP9BC0eK5YNLfL06F7HMEd5N1WE3NPOP6IvB1nQBLT12y1FtS9_uPp2YbBEL2PL9gfjSq5oOePM0khV_mMemhu5rL8AyYVbv3ro5Yr5Xaft1iScT362vYDvLsh1Wa8j_Acvm_9W9pKeCXkQpsPk-yt-DcRapfm5RzB8YKTDEzwn_xrdp7tbYMQMivVkW1p40byy9zeG4JNjkhuIz91wQWh6t4apklw3le3J32NiRPV8RDaxzAtYQfSNjQzmPD15TdxW3tQEfaezFphfzrKYm1uh62iNuqGcD254JwsmnegLrGLPPQVxDRn8fklZ0Lq_5O2fYtr_WjUHi3qngfrRxFCsQYcmZLfxKDDiLWzkTQQ&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://octopart.com:443/opatz8j6/c1?t=Cv-Lo8ASJusiJfElOe7z2ljxGeXtJ8lqLP9BC0eK5YNLfL06F7HMEd5N1WE3NPOP6IvB1nQBLT12y1FtS9_uPp2YbBEL2PL9gfjSq5oOePM0khV_mMemhu5rL8AyYVbv3ro5Yr5Xaft1iScT362vYDvLsh1Wa8j_Acvm_9W9pKeCXkQpsPk-yt-DcRapfm5RzB8YKTDEzwn_xrdp7tbYMQMivVkW1p40byy9zeG4JNjkhuIz91wQWh6t4apklw3le3J32NiRPV8RDaxzAtYQfSNjQzmPD15TdxW3tQEfaezFphfzrKYm1uh62iNuqGcD254JwsmnegLrGLPPQVxDRn8fklZ0Lq_5O2fYtr_WjUHi3qngfrRxFCsQYcmZLfxKDDiLWzkTQQ&src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://sigma.octopart.com:443/179311906/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://sigma.octopart.com:443/179311906/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://sigma.octopart.com:443/159779760/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://sigma.octopart.com:443/159779760/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://sigma.octopart.com:443/149167535/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://sigma.octopart.com:443/149167535/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-34136799.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-34136799.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-32015788.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-32015788.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://sigma.octopart.com:443/49250152/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://sigma.octopart.com:443/49250152/technical_drawing/Texas-Instruments-TPS563209DDCR.pdf?src-supplier=Texas+Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-165804783.pdf?src-supplier=LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-165804783.pdf?src-supplier=LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-159118152.pdf?src-supplier=LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-159118152.pdf?src-supplier=LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-140571900.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.octopart.com:443/TPS563209DDCR-Texas-Instruments-datasheet-140571900.pdf?src-supplier=Arrow.cn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12Description"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink12URL"; Value = "http://sigma.octopart.com:80/reach_statement/Texas-Instruments-company-64.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13Description"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink13URL"; Value = "http://sigma.octopart.com:80/conflict_mineral_statement/Texas-Instruments-company-63.pdf?src-supplier=Compliance+Statements"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TPS563209DDCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Duty Cycle"; Value = "65%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "17V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "760mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "650µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "650µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "17V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Adjustable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Digi-Reel®"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.02, 10=0.732, 25=0.6604, 100=0.5819, 250=0.54452, 500=0.522, 1000=0.50346 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "650µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8542390000, 8542390000|8542390000|8542390000|8542390000|8542390000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5463"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "296-40813-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "650kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "870µm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "Buck"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "29.993795mg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-N
+Added Pin To Net: NetName=+7V4_RAW Pin=J1-P
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetC16_2 Pin=U1-2
+Added Pin To Net: NetName=+7V4 Pin=U1-3
+Added Pin To Net: NetName=NetR7_1 Pin=U1-4
+Added Pin To Net: NetName=+7V4 Pin=U1-5
+Added Pin To Net: NetName=NetC16_1 Pin=U1-6
+Add Net: Net with name "NetC_U_MOSFET_Driver1_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver1_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver2_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver3_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_1" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_2" already exists
+Add Net: Net with name "NetC_U_MOSFET_Driver4_2" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver1_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver1_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver1_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver1_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver1_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver2_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver2_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver2_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver2_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver2_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver3_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver3_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver3_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver3_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver3_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver4_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver4_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver4_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver4_4" already exists
+Add Net: Net with name "NetQ_U_MOSFET_Driver4_4" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver1_1" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver1_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver1_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver2_1" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver2_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver2_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver3_1" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver3_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver3_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver4_1" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver4_2" already exists
+Add Net: Net with name "NetR_U_MOSFET_Driver4_2" already exists
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C_U_MOSFET_Driver1 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C_U_MOSFET_Driver1 (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C_U_MOSFET_Driver1 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C_U_MOSFET_Driver1 (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C_U_MOSFET_Driver2 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C_U_MOSFET_Driver2 (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C_U_MOSFET_Driver2 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C_U_MOSFET_Driver2 (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C_U_MOSFET_Driver3 (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C_U_MOSFET_Driver3 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C_U_MOSFET_Driver3 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C_U_MOSFET_Driver3 (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component C_U_MOSFET_Driver4 (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component C_U_MOSFET_Driver4 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component C_U_MOSFET_Driver4 (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component C_U_MOSFET_Driver4 (C) 1uF
+Added Member To Class: ClassName=U_STM32 Member=Component D1 150060SS75000
+Added Member To Class: ClassName=U_Power Member=Component D2 150060VS75000
+Added Member To Class: ClassName=U_Power Member=Component D3 150060VS75000
+Added Member To Class: ClassName=Main Member=Component J2 conn_0.050"_cortexM
+Added Member To Class: ClassName=U_Power Member=Component L1 SPM6530T-2R2M
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q_U_MOSFET_Driver1 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q_U_MOSFET_Driver1 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q_U_MOSFET_Driver1 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q_U_MOSFET_Driver1 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component Q_U_MOSFET_Driver1 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q_U_MOSFET_Driver2 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q_U_MOSFET_Driver2 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q_U_MOSFET_Driver2 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q_U_MOSFET_Driver2 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component Q_U_MOSFET_Driver2 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q_U_MOSFET_Driver3 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q_U_MOSFET_Driver3 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q_U_MOSFET_Driver3 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q_U_MOSFET_Driver3 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component Q_U_MOSFET_Driver3 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q_U_MOSFET_Driver4 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q_U_MOSFET_Driver4 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q_U_MOSFET_Driver4 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q_U_MOSFET_Driver4 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component Q_U_MOSFET_Driver4 (Q) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R_U_MOSFET_Driver1 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R_U_MOSFET_Driver1 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R_U_MOSFET_Driver1 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R_U_MOSFET_Driver1 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component R_U_MOSFET_Driver1 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R_U_MOSFET_Driver2 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R_U_MOSFET_Driver2 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R_U_MOSFET_Driver2 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R_U_MOSFET_Driver2 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component R_U_MOSFET_Driver2 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R_U_MOSFET_Driver3 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R_U_MOSFET_Driver3 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R_U_MOSFET_Driver3 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R_U_MOSFET_Driver3 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component R_U_MOSFET_Driver3 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R_U_MOSFET_Driver4 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R_U_MOSFET_Driver4 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R_U_MOSFET_Driver4 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R_U_MOSFET_Driver4 (R) 10k
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component R_U_MOSFET_Driver4 (R) 10k
+Added Member To Class: ClassName=U_Power Member=Component U1 TPS563209DDCR
