@@ -16,6 +16,11 @@ import math
 #   Small Unmanned Aircraft: Theory and Practice: https://github.com/byu-magicc/mavsim_public
 #   State Space System Modelling of a Quad Copter UAV: https://arxiv.org/pdf/1908.07401
 
+#   NOTE: This might be what we have to use, the rest are cooked. Implemented attitude control only.
+#   Additional note that the Euler angles are encoded as a quaternion while the angluar speeds
+#   are represented in a plain three-dimensional vector.
+#   Full quaternion based attitude control for a quadrotor: https://ieeexplore.ieee.org/document/6669617
+
 # IMU Datasheet: https://invensense.tdk.com/wp-content/uploads/2022/07/DS-000330-ICM-40609-D-v1.2.pdf
 # ARHS: https://files.microstrain.com/product_datasheets/3DM-GX3-25_datasheet_version_1.07a.pdf (Might be a good idea)
 
@@ -33,6 +38,18 @@ import math
 # into Euler angles for use in the model developed in the textbook paper. Also returns angular acceleration 
 # data and directional acceleration which we should be able to integrate to get relative velocity and relative 
 # position.
+
+
+##########################################################################################################
+
+# Drone Controllers
+
+##########################################################################################################
+
+# Left stick: Throttle (Up/Down) + Yaw (Direction)
+# Right stick: Pitch (Forward/Backward) + Roll (Side-to-side)
+
+# 
 
 ##########################################################################################################
 
@@ -98,6 +115,8 @@ import math
 #   Setpoints:
 #       Position (2-axis)
 #       Speed (2-axis)
+
+# NOTE: Theoretical mapping: PID will output PWM
 
 ##########################################################################################################
 
