@@ -12,6 +12,9 @@ import math
 #   PID Control of Quadrotor UAVs: https://www.sciencedirect.com/science/article/pii/S1367578823000640
 #   Control design of quadrotor aircraft based on improved integral backstepping sliding mode: https://onlinelibrary.wiley.com/doi/10.1002/asjc.3444
 #   ^^^ Uses the same modelling as the textbook paper so this one might be very useful
+#   Geometric Tracking Control of a Quadrotor UAV on SE(3): https://arxiv.org/pdf/1003.2005v1
+#   Small Unmanned Aircraft: Theory and Practice: https://github.com/byu-magicc/mavsim_public
+#   State Space System Modelling of a Quad Copter UAV: https://arxiv.org/pdf/1908.07401
 
 # IMU Datasheet: https://invensense.tdk.com/wp-content/uploads/2022/07/DS-000330-ICM-40609-D-v1.2.pdf
 # ARHS: https://files.microstrain.com/product_datasheets/3DM-GX3-25_datasheet_version_1.07a.pdf (Might be a good idea)
@@ -67,6 +70,8 @@ import math
 # U2: Roll Moment (Forces acting about north axis)
 # U3: Pitch Moment (Forces acting about east axis)
 # U4: Yaw Moment (Forces acting about down axis)
+
+# NOTE: We might need to solve the system of equations using the values of U to get the rotor speeds.
 
 # Big note that we will need the moments of intertia about each of the aircraft axes as well as 
 # some model of the rotational inertia of the rotors.
