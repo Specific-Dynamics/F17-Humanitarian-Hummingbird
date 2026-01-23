@@ -1,0 +1,52 @@
+Removed Member From Class: ClassName=U_MOSFET_DRIVER_4 Member=Q2A
+Removed Member From Class: ClassName=U_MOSFET_DRIVER_2 Member=Q2C
+Removed Member From Class: ClassName=U_MOSFET_DRIVER_4 Member=Q3A
+Removed Member From Class: ClassName=U_MOSFET_DRIVER_2 Member=Q3C
+Removed Member From Class: ClassName=U_MOSFET_DRIVER_4 Member=Q4A
+Removed Member From Class: ClassName=U_MOSFET_DRIVER_2 Member=Q4C
+Removed Member From Class: ClassName=U_MOSFET_DRIVER_4 Member=Q5A
+Removed Member From Class: ClassName=U_MOSFET_DRIVER_2 Member=Q5C
+Removed Member From Class: ClassName=U_MOSFET_DRIVER_4 Member=Q6A
+Removed Member From Class: ClassName=U_MOSFET_DRIVER_2 Member=Q6C
+Add Pin To Net: Unknown Pin: Pin S1-1A
+Add Pin To Net: Unknown Pin: Pin S1-1B
+Add Pin To Net: Unknown Pin: Pin S1-2A
+Add Pin To Net: Unknown Pin: Pin S1-2B
+Change Net Name : Old Net Name=NetU3A_27 New Net Name=PWMC4
+Change Net Name : Old Net Name=NetU3A_28 New Net Name=PWMB4
+Change Net Name : Old Net Name=NetU3A_29 New Net Name=PWMA4
+Change Net Name : Old Net Name=NetU3A_30 New Net Name=GPIOC4
+Change Net Name : Old Net Name=NetU3A_31 New Net Name=GPIOB4
+Change Net Name : Old Net Name=NetU3A_32 New Net Name=GPIOA4
+Change Net Name : Old Net Name=NetU3A_34 New Net Name=nSLEEP4
+Change Net Name : Old Net Name=NetU3B_27 New Net Name=PWMC3
+Change Net Name : Old Net Name=NetU3B_28 New Net Name=PWMB3
+Change Net Name : Old Net Name=NetU3B_29 New Net Name=PWMA3
+Change Net Name : Old Net Name=NetU3B_30 New Net Name=GPIOC3
+Change Net Name : Old Net Name=NetU3B_31 New Net Name=GPIOB3
+Change Net Name : Old Net Name=NetU3B_32 New Net Name=GPIOA3
+Change Net Name : Old Net Name=NetU3B_34 New Net Name=nSLEEP3
+Change Net Name : Old Net Name=NetU3C_27 New Net Name=PWMC2
+Change Net Name : Old Net Name=NetU3C_28 New Net Name=PWMB2
+Change Net Name : Old Net Name=NetU3C_29 New Net Name=PWMA2
+Change Net Name : Old Net Name=NetU3C_30 New Net Name=GPIOC2
+Change Net Name : Old Net Name=NetU3C_31 New Net Name=GPIOB2
+Change Net Name : Old Net Name=NetU3C_32 New Net Name=GPIOA2
+Change Net Name : Old Net Name=NetU3C_34 New Net Name=nSLEEP2
+Change Net Name : Old Net Name=NetU3D_27 New Net Name=PWMC1
+Change Net Name : Old Net Name=NetU3D_28 New Net Name=PWMB1
+Change Net Name : Old Net Name=NetU3D_29 New Net Name=PWMA1
+Change Net Name : Old Net Name=NetU3D_30 New Net Name=GPIOC1
+Change Net Name : Old Net Name=NetU3D_31 New Net Name=GPIOB1
+Change Net Name : Old Net Name=NetU3D_32 New Net Name=GPIOA1
+Change Net Name : Old Net Name=NetU3D_34 New Net Name=nSLEEP1
+Added Member To Class: ClassName=U_MOSFET_DRIVER_2 Member=Component Q2B (Q2) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_4 Member=Component Q2D (Q2) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_2 Member=Component Q3B (Q3) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_4 Member=Component Q3D (Q3) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_2 Member=Component Q4B (Q4) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_4 Member=Component Q4D (Q4) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_2 Member=Component Q5B (Q5) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_4 Member=Component Q5D (Q5) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_2 Member=Component Q6B (Q6) CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_4 Member=Component Q6D (Q6) CSD17581Q5A

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PWMC1 Pin=U3D-27
+Removed Pin From Net: NetName=PWMB1 Pin=U3D-28
+Add Pin To Net: Unknown Pin: Pin S1-1A
+Add Pin To Net: Unknown Pin: Pin S1-1B
+Add Pin To Net: Unknown Pin: Pin S1-2A
+Add Pin To Net: Unknown Pin: Pin S1-2B
+Added Pin To Net: NetName=PWMB1 Pin=U3D-27
+Added Pin To Net: NetName=PWMC1 Pin=U3D-28

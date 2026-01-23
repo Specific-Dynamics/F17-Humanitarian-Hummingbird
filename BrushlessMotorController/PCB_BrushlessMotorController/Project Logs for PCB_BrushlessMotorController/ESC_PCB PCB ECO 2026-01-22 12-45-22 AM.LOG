@@ -1,0 +1,160 @@
+Added Component: Designator=C26A(CAP 0603)
+Added Component: Designator=C26B(CAP 0603)
+Added Component: Designator=C26C(CAP 0603)
+Added Component: Designator=C26D(CAP 0603)
+Added Component: Designator=C27A(FP-UWT1V221MNL1GS-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Cylindrical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "0.14%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.394inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.327inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "3uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "1000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "190mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "190mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "WT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C27B(FP-UWT1V221MNL1GS-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Cylindrical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "0.14%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.394inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.327inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "3uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "1000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "190mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "190mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "WT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C27C(FP-UWT1V221MNL1GS-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Cylindrical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "0.14%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.394inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.327inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "3uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "1000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "190mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "190mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "WT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C27D(FP-UWT1V221MNL1GS-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "220uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Cylindrical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "0.14%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.394inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.327inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "3uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "1000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "190mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = "190mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "WT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "35V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C26A-1
+Added Pin To Net: NetName=+7V4 Pin=C26A-2
+Added Pin To Net: NetName=GND Pin=C26B-1
+Added Pin To Net: NetName=+7V4 Pin=C26B-2
+Added Pin To Net: NetName=GND Pin=C26C-1
+Added Pin To Net: NetName=+7V4 Pin=C26C-2
+Added Pin To Net: NetName=GND Pin=C26D-1
+Added Pin To Net: NetName=+7V4 Pin=C26D-2
+Added Pin To Net: NetName=GND Pin=C27A-1
+Added Pin To Net: NetName=+7V4 Pin=C27A-2
+Added Pin To Net: NetName=GND Pin=C27B-1
+Added Pin To Net: NetName=+7V4 Pin=C27B-2
+Added Pin To Net: NetName=GND Pin=C27C-1
+Added Pin To Net: NetName=+7V4 Pin=C27C-2
+Added Pin To Net: NetName=GND Pin=C27D-1
+Added Pin To Net: NetName=+7V4 Pin=C27D-2
+Add Pin To Net: Unknown Pin: Pin S1-1A
+Add Pin To Net: Unknown Pin: Pin S1-1B
+Add Pin To Net: Unknown Pin: Pin S1-2A
+Add Pin To Net: Unknown Pin: Pin S1-2B
+Added Member To Class: ClassName=U_MOSFET_DRIVER_1 Member=Component C26A (C26) 1uF
+Added Member To Class: ClassName=U_MOSFET_DRIVER_2 Member=Component C26B (C26) 1uF
+Added Member To Class: ClassName=U_MOSFET_DRIVER_3 Member=Component C26C (C26) 1uF
+Added Member To Class: ClassName=U_MOSFET_DRIVER_4 Member=Component C26D (C26) 1uF
+Added Member To Class: ClassName=U_MOSFET_DRIVER_1 Member=Component C27A (C27) UWT1V221MNL1GS
+Added Member To Class: ClassName=U_MOSFET_DRIVER_2 Member=Component C27B (C27) UWT1V221MNL1GS
+Added Member To Class: ClassName=U_MOSFET_DRIVER_3 Member=Component C27C (C27) UWT1V221MNL1GS
+Added Member To Class: ClassName=U_MOSFET_DRIVER_4 Member=Component C27D (C27) UWT1V221MNL1GS
