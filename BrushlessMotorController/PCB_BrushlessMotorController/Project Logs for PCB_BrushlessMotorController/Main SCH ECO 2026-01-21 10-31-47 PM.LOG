@@ -1,0 +1,4 @@
+Remove Pin=U-26 From Net=local_3V3
+Remove Pin=U-33 From Net=local_3V3
+Change Component Footprint: Designator=S1 Old Footprint=SW_DS04-254-2-02BK-SMT New Footprint=Solder_Pad
+Change Component Comment: Designator=S1 Old Comment=DS04-254-2-02BK-SMT New Comment=Solder Pad

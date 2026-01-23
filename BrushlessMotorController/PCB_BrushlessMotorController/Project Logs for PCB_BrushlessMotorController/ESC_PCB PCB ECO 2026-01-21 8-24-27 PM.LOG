@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPIOC_1 Pin=U4A-30
+Removed Pin From Net: NetName=GPIOB_1 Pin=U4A-31
+Added Pin To Net: NetName=GPIOB_1 Pin=U4A-30
+Added Pin To Net: NetName=GPIOC_1 Pin=U4A-31

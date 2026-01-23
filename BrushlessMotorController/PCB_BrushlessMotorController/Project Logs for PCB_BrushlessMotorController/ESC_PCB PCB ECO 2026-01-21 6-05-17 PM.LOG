@@ -1,0 +1,120 @@
+Removed Member From Class: ClassName=U_MOSFET_Driver2 Member=C29
+Removed Member From Class: ClassName=U_MOSFET_Driver2 Member=C30
+Removed Member From Class: ClassName=U_MOSFET_Driver2 Member=C31
+Removed Member From Class: ClassName=U_MOSFET_Driver3 Member=C32
+Removed Member From Class: ClassName=U_MOSFET_Driver3 Member=C33
+Removed Member From Class: ClassName=U_MOSFET_Driver3 Member=C34
+Removed Member From Class: ClassName=U_MOSFET_Driver3 Member=C35
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=C36
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=C37
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=C38
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=C39
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=C40
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=C41
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=C42
+Removed Member From Class: ClassName=U_MOSFET_Driver1 Member=C44
+Removed Member From Class: ClassName=U_MOSFET_Driver1 Member=C45
+Removed Member From Class: ClassName=U_MOSFET_Driver1 Member=C46
+Removed Member From Class: ClassName=U_MOSFET_Driver1 Member=C47
+Removed Member From Class: ClassName=U_MOSFET_Driver1 Member=C48
+Removed Member From Class: ClassName=U_Power Member=D3
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=R44
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=R45
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=R46
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=R47
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=R48
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=R49
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=R50
+Removed Member From Class: ClassName=U_Back_EMF_Detection4 Member=R51
+Removed Member From Class: ClassName=U_MOSFET_Driver4 Member=U6
+Removed Member From Class: ClassName=U_MOSFET_Driver2 Member=U7
+Add component: Footprint Not Found AMASS_XT30PW-M
+Add component: Footprint Not Found DDC0006A
+Add Pin To Net: Unknown Pin: Pin J2-N
+Add Pin To Net: Unknown Pin: Pin J2-P
+Added Pin To Net: NetName=NetC28_2 Pin=R2-2
+Added Pin To Net: NetName=NetC26_2 Pin=R3-2
+Added Pin To Net: NetName=NetC24_2 Pin=R4-2
+Added Pin To Net: NetName=NetC23_2 Pin=R53-2
+Added Pin To Net: NetName=NetC21_2 Pin=R54-2
+Added Pin To Net: NetName=NetC19_2 Pin=R55-2
+Added Pin To Net: NetName=NetC18_2 Pin=R72-2
+Added Pin To Net: NetName=NetC16_2 Pin=R73-2
+Added Pin To Net: NetName=NetC14_2 Pin=R74-2
+Added Pin To Net: NetName=NetC13_2 Pin=R91-2
+Added Pin To Net: NetName=NetC11_2 Pin=R92-2
+Added Pin To Net: NetName=NetC9_2 Pin=R93-2
+Added Pin To Net: NetName=NetQ28_12 Pin=U1-2
+Added Pin To Net: NetName=NetC68_2 Pin=U1-24
+Added Pin To Net: NetName=NetQ27_12 Pin=U2-2
+Added Pin To Net: NetName=NetC60_2 Pin=U2-24
+Added Pin To Net: NetName=NetQ26_12 Pin=U3-2
+Added Pin To Net: NetName=NetC52_2 Pin=U3-24
+Added Pin To Net: NetName=NetQ1_12 Pin=U4-2
+Added Pin To Net: NetName=NetC4_2 Pin=U4-24
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Added Pin To Net: NetName=NetU1_31 Pin=U7-2
+Added Pin To Net: NetName=NetU1_32 Pin=U7-3
+Added Pin To Net: NetName=NetU1_34 Pin=U7-4
+Added Pin To Net: NetName=NetU4_34 Pin=U7-30
+Added Pin To Net: NetName=NetU3_34 Pin=U7-33
+Added Pin To Net: NetName=NetU3_30 Pin=U7-34
+Added Pin To Net: NetName=NetU3_31 Pin=U7-35
+Added Pin To Net: NetName=NetU3_32 Pin=U7-36
+Added Pin To Net: NetName=NetU3_29 Pin=U7-37
+Added Pin To Net: NetName=NetU3_28 Pin=U7-38
+Added Pin To Net: NetName=NetU2_27 Pin=U7-40
+Added Pin To Net: NetName=NetU4_29 Pin=U7-41
+Added Pin To Net: NetName=NetU4_28 Pin=U7-42
+Added Pin To Net: NetName=NetU4_27 Pin=U7-43
+Added Pin To Net: NetName=NetU4_30 Pin=U7-44
+Added Pin To Net: NetName=NetU4_31 Pin=U7-45
+Added Pin To Net: NetName=NetU4_32 Pin=U7-50
+Added Pin To Net: NetName=NetU2_34 Pin=U7-51
+Added Pin To Net: NetName=NetU2_30 Pin=U7-52
+Added Pin To Net: NetName=NetU2_31 Pin=U7-53
+Added Pin To Net: NetName=NetU2_32 Pin=U7-54
+Added Pin To Net: NetName=NetU2_28 Pin=U7-56
+Added Pin To Net: NetName=NetU2_29 Pin=U7-57
+Added Pin To Net: NetName=NetU1_27 Pin=U7-58
+Added Pin To Net: NetName=NetU1_28 Pin=U7-59
+Added Pin To Net: NetName=NetU1_29 Pin=U7-61
+Added Pin To Net: NetName=NetU1_30 Pin=U7-62
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component C1 (C) 330pF
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component C2 (C) 330pF
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component C3 (C) 330pF
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component C4 (C) 1nF
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component C5 (C) 330pF
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component C6 (C) 330pF
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component C7 (C) 0.1uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C9 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C10 (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C11 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C12 (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver1 Member=Component C13 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C16 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C17 (C) 470nF
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component C18 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C19 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C20 (C) 10uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C21 (C) 1uF
+Added Member To Class: ClassName=U_MOSFET_Driver3 Member=Component C22 (C) 470nF
+Added Member To Class: ClassName=U_Power Member=Component D1 (D2) 150060VS75000
+Added Member To Class: ClassName=Main Member=Component J1 conn_0.050"_cortexM
+Add Class Member: Failed to add class member : Component J2 (J3) XT30PW-M
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component R1 (R) 0
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component R2 (R) 10k
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component R3 (R) 10k
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component R4 (R) 10k
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component R6 (R) 0
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component R7 (R) 0
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component R8 (R) 0
+Added Member To Class: ClassName=U_Back_EMF_Detection4 Member=Component R9 (R) Resistor Array 1206 2k Ohm
+Added Member To Class: ClassName=U_MOSFET_Driver2 Member=Component U2 (U) DRV8329BREER
+Added Member To Class: ClassName=U_MOSFET_Driver4 Member=Component U4 (U) DRV8329BREER
+Add Class Member: Failed to add class member : Component U5 (U2) TPS563209DDCR
