@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=+3V3 Pin=C24-2
+Removed Member From Class: ClassName=U_STM32 Member=C24
+Removed Member From Class: ClassName=U_Back_EMF_Detection Member=U2
+Add Pin To Net: Unknown Pin: Pin S4-1A
+Add Pin To Net: Unknown Pin: Pin S4-1B
+Add Pin To Net: Unknown Pin: Pin S4-2A
+Add Pin To Net: Unknown Pin: Pin S4-2B
+Added Member To Class: ClassName=U_MOSFET_DRIVER_ Member=Component Q1 CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_ Member=Component Q2 CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_ Member=Component Q4 CSD17581Q5A
+Added Member To Class: ClassName=U_MOSFET_DRIVER_ Member=Component Q6 CSD17581Q5A
+Added Member To Class: ClassName=U_Back_EMF_Detection Member=Component U1 MCP6499T-E/SL

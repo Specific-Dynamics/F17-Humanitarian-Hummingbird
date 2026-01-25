@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=U_STM32 Member=S4
+Change Component Designator: OldDesignator=C25 NewDesignator=C24
+Change Component Designator: OldDesignator=C26 NewDesignator=C25
+Change Component Designator: OldDesignator=C27 NewDesignator=C26
+Change Component Designator: OldDesignator=C28 NewDesignator=C27
+Change Component Designator: OldDesignator=C29 NewDesignator=C28
+Change Component Designator: OldDesignator=C30 NewDesignator=C29
+Change Component Designator: OldDesignator=C31 NewDesignator=C30
+Change Component Designator: OldDesignator=C32 NewDesignator=C31
+Change Component Designator: OldDesignator=C33 NewDesignator=C32
+Added Component: Designator=BT1(SolderBridge)
+Added Component: Designator=BT2(SolderBridge)
+Added Pin To Net: NetName=BOOT1 Pin=BT1-1
+Added Pin To Net: NetName=+3V3 Pin=BT1-2
+Added Pin To Net: NetName=BOOT0 Pin=BT2-1
+Added Pin To Net: NetName=+3V3 Pin=BT2-2
+Added Member To Class: ClassName=U_STM32 Member=Component BT1 Jumper
+Added Member To Class: ClassName=U_STM32 Member=Component BT2 Jumper
