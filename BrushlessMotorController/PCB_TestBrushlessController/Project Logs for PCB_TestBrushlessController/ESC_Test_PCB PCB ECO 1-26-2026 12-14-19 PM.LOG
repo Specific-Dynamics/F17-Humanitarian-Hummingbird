@@ -1,0 +1,8 @@
+Added Component: Designator=BT1(SolderBridge)
+Added Component: Designator=BT2(SolderBridge)
+Added Pin To Net: NetName=BOOT1 Pin=BT1-1
+Added Pin To Net: NetName=+3V3 Pin=BT1-2
+Added Pin To Net: NetName=BOOT0 Pin=BT2-1
+Added Pin To Net: NetName=+3V3 Pin=BT2-2
+Added Member To Class: ClassName=U_STM32 Member=Component BT1 Jumper
+Added Member To Class: ClassName=U_STM32 Member=Component BT2 Jumper

@@ -17,7 +17,10 @@ Building a pcb brusheless stator motor using the pcb traces as the motor coils
 - NMOS selected [CSD17581Q5A](https://www.ti.com/product/CSD17581Q5A), [digikey](https://www.digikey.ca/en/products/detail/texas-instruments/CSD17581Q5A/6205539)
 
 ## Microcontroller
+*Find CubeMX .ioc file in STM32_Brushless... folder for exact pin specifications*
 
+**Back EMF (Bemf) Measurement**
+All 3 ADCs and all channels will be used to sample the Bemf for positional and speed feedback correction. Two ADCs are responsible for 
 
 ## MOSFET Driver
 **Sleep and Reset**  
