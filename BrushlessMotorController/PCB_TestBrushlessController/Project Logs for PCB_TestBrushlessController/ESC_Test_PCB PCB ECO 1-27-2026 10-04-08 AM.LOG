@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+3V3 Pin=J1-1
+Added Component: Designator=3V3(SolderBridge)
+Added Pin To Net: NetName=+3V3 Pin=3V3-1
+Added Pin To Net: NetName=Net3V3_2 Pin=3V3-2
+Added Pin To Net: NetName=Net3V3_2 Pin=J1-1
+Added Net: Name=Net3V3_2
+Added Member To Class: ClassName=Main_TEST Member=Component 3V3 Jumper

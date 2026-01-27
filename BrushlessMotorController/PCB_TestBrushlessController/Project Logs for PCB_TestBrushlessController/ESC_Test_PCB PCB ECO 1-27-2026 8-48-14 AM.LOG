@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetC21_2 Pin=C22-2
+Removed Pin From Net: NetName=NetC21_2 Pin=U4-31
+Change Component Description : Designator=XF1 Old Description=Fuse Holder For Minifuse/ P New Description=Fuse Holder For Minifuse/ P |Littelfuse 01000063Z
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=U4-31
+Added Net: Name=NetC22_2

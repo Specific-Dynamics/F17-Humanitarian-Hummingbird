@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Net3V3_2 Pin=J1-1
+Removed Pin From Net: NetName=+3V3 Pin=J3-1
+Removed Member From Class: ClassName=Main_TEST Member=3V3
+Added Pin To Net: NetName=+3V3 Pin=J1-1
+Added Pin To Net: NetName=Net3V3_2 Pin=J3-1
+Added Member To Class: ClassName=U_STM32 Member=Component 3V3 Jumper
