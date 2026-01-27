@@ -1,6 +1,6 @@
-Should import the design rule in, I have created one in the main ESC PCB you can export rule from there and import it here >500 DRC violation
+[x] Should import the design rule in, I have created one in the main ESC PCB you can export rule from there and import it here >500 DRC violation
 I like the jumper pad instead of buttons
-Alot of clearance/ min hole size issues based on rule
-For all the decoupling caps on the STM, the power should go from cap then to STM not just in the node between, worst decoupling like this
+[x] Alot of clearance/ min hole size issues based on rule
+[x] For all the decoupling caps on the STM, the power should go from cap then to STM not just in the node between, worst decoupling like this
 Should have a 1uF for decoupling the 7.4V power pin for the gate driver
-Not recommended the trace for back emf of the middle mosfet pair to go underneath the bottom mosfet pair. Could potentially have huge noise due to switching power
+[x] Not recommended the trace for back emf of the middle mosfet pair to go underneath the bottom mosfet pair. Could potentially have huge noise due to switching power
