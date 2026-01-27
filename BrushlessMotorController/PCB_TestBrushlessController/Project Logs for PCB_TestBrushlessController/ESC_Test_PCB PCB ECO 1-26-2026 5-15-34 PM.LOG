@@ -1,0 +1,20 @@
+Added Component: Designator=R9(YC164-JR-072KL)
+Added Component: Designator=R10(YC164-JR-072KL)
+Added Pin To Net: NetName=NetR8_1 Pin=R9-1
+Added Pin To Net: NetName=NetR7_1 Pin=R9-2
+Added Pin To Net: NetName=NetR6_1 Pin=R9-3
+Added Pin To Net: NetName=NetR5_1 Pin=R9-4
+Added Pin To Net: NetName=NetR9_5 Pin=R9-5
+Added Pin To Net: NetName=NetC3_1 Pin=R9-6
+Added Pin To Net: NetName=NetC2_1 Pin=R9-7
+Added Pin To Net: NetName=NetC1_1 Pin=R9-8
+Added Pin To Net: NetName=NetC1_1 Pin=R10-1
+Added Pin To Net: NetName=NetC2_1 Pin=R10-2
+Added Pin To Net: NetName=NetC3_1 Pin=R10-3
+Added Pin To Net: NetName=NetR9_5 Pin=R10-4
+Added Pin To Net: NetName=NetR10_5 Pin=R10-5
+Added Pin To Net: NetName=NetC5_2 Pin=R10-6
+Added Pin To Net: NetName=NetC6_2 Pin=R10-7
+Added Pin To Net: NetName=NetC8_2 Pin=R10-8
+Added Member To Class: ClassName=U_Back_EMF_Detection Member=Component R9 Resistor Array 1206 2k Ohm
+Added Member To Class: ClassName=U_Back_EMF_Detection Member=Component R10 Resistor Array 1206 2k Ohm
