@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: ESC_Test_PCB.GBR   1/27/2026  1:43:33 PM
+Gerber File Extension Report For: ESC_Test_PCB.GBR   1/27/2026  2:09:26 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -33,8 +33,8 @@ Layer Extension     Layer Description
 .GPT                Top Pad Master                          
 .GPB                Bottom Pad Master                       
 .1                  Dielectric 1                            
-.GML                Multi-Layer                             
 .3                  Dielectric 3                            
+.GML                Multi-Layer                             
 .2                  Dielectric 2                            
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
