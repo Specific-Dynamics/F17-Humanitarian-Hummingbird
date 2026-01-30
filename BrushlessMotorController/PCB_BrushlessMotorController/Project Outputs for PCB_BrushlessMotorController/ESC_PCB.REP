@@ -1,0 +1,326 @@
+*************************************************************
+FileName = ESC_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Paste
+      File : ESC_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D30
+    D31
+    D33
+    D34
+    D36
+    D38
+    D41
+    D42
+    D79
+    D80
+    D82
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ESC_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ESC_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D25
+    D31
+    D45
+    D46
+    D47
+    D48
+    D49
+    D52
+    D53
+    D54
+    D56
+    D58
+    D60
+    D61
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D79
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ESC_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D25
+    D29
+    D31
+    D32
+    D40
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ESC_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D15
+    D16
+    D17
+    D18
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ESC_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ESC_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D30
+    D31
+    D33
+    D34
+    D36
+    D38
+    D41
+    D42
+    D49
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+*************************************************************
+
+*************************************************************
+Generating : PWR
+      File : ESC_PCB.G2
+
+    Adding Layer      : PWR
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D72
+    D73
+    D74
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : ESC_PCB.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D72
+    D73
+    D74
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ESC_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D49
+    D51
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : ESC_PCB.GM
+
+
+Used DCodes :
+    D83
+*************************************************************
+
