@@ -1,0 +1,5 @@
+Change Component Description : Designator=XF1 Old Description=Fuse Holder For Minifuse/ P New Description=Fuse Holder For Minifuse/ P |Littelfuse 01000063Z
+Added Component: Designator=C34(CAP 0603)
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=+7V4 Pin=C34-2
+Added Member To Class: ClassName=U_MOSFET_DRIVER_ Member=Component C34 1uF

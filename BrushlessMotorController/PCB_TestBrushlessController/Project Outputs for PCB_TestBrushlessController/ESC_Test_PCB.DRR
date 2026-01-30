@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESC_Test_PCB.PcbDoc   1/27/2026  2:15:56 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Signal to Bottom Signal
+ASCII Plated RoundHoles File : ESC_Test_PCB-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             271       PTH        23.87inch (606.21mm)
+T2      20mil (0.508mm)                                           Round             15        PTH        1.59inch (40.27mm)
+T3      28mil (0.711mm)                                           Round             20        PTH        1.75inch (44.37mm)
+T4      31mil (0.78mm)                                            Round             4         PTH        0.46inch (11.70mm)
+T5      39mil (1mm)                                               Round             2         PTH        0.43inch (11.00mm)
+T6      67mil (1.7mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T7      126mil (3.2mm)                                            Round             4         PTH        4.97inch (126.11mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              318
+
+Total Processing Time (hh:mm:ss) : 00:00:00
