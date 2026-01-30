@@ -9,5 +9,4 @@ Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_MOSFET_DRIVER_|SchDes
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_MOSFET_DRIVER_|SchDesignator=U_MOSFET_DRIVER_|FileName=MOSFET_DRIVER_.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=MOSFET_DRIVER_.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_STM32|SchDesignator=U_STM32|FileName=STM32.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=Main_TEST.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=Main.SchDoc|FileName=MOSFET_Driver.SchDoc|SheetNumber=6
